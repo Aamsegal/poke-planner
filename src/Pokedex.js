@@ -1930,1022 +1930,1022 @@ const pokedex = [
     "url": "https://pokeapi.co/api/v2/pokemon/386/"
     },
     {
-    "pokeAPI_id": "Turtwig",
+    "pokemonName": "Turtwig",
     "pokeAPI_id": "turtwig",
     "url": "https://pokeapi.co/api/v2/pokemon/387/"
     },
     {
-    "pokeAPI_id": "Grotle",
+    "pokemonName": "Grotle",
     "pokeAPI_id": "grotle",
     "url": "https://pokeapi.co/api/v2/pokemon/388/"
     },
     {
-    "pokeAPI_id": "Torterra",
+    "pokemonName": "Torterra",
     "pokeAPI_id": "torterra",
     "url": "https://pokeapi.co/api/v2/pokemon/389/"
     },
     {
-    "pokeAPI_id": "Chimchar",
+    "pokemonName": "Chimchar",
     "pokeAPI_id": "chimchar",
     "url": "https://pokeapi.co/api/v2/pokemon/390/"
     },
     {
-    "pokeAPI_id": "Monferno",
+    "pokemonName": "Monferno",
     "pokeAPI_id": "monferno",
     "url": "https://pokeapi.co/api/v2/pokemon/391/"
     },
     {
-    "pokeAPI_id": "Infernape",
+    "pokemonName": "Infernape",
     "pokeAPI_id": "infernape",
     "url": "https://pokeapi.co/api/v2/pokemon/392/"
     },
     {
-    "pokeAPI_id": "Piplup",
+    "pokemonName": "Piplup",
     "pokeAPI_id": "piplup",
     "url": "https://pokeapi.co/api/v2/pokemon/393/"
     },
     {
-    "pokeAPI_id": "Prinplup",
+    "pokemonName": "Prinplup",
     "pokeAPI_id": "prinplup",
     "url": "https://pokeapi.co/api/v2/pokemon/394/"
     },
     {
-    "pokeAPI_id": "Empoleon",
+    "pokemonName": "Empoleon",
     "pokeAPI_id": "empoleon",
     "url": "https://pokeapi.co/api/v2/pokemon/395/"
     },
     {
-    "pokeAPI_id": "Starly",
+    "pokemonName": "Starly",
     "pokeAPI_id": "starly",
     "url": "https://pokeapi.co/api/v2/pokemon/396/"
     },
     {
-    "pokeAPI_id": "Staravia",
+    "pokemonName": "Staravia",
     "pokeAPI_id": "staravia",
     "url": "https://pokeapi.co/api/v2/pokemon/397/"
     },
     {
-    "pokeAPI_id": "Staraptor",
+    "pokemonName": "Staraptor",
     "pokeAPI_id": "staraptor",
     "url": "https://pokeapi.co/api/v2/pokemon/398/"
     },
     {
-    "pokeAPI_id": "Bidoof",
+    "pokemonName": "Bidoof",
     "pokeAPI_id": "bidoof",
     "url": "https://pokeapi.co/api/v2/pokemon/399/"
     },
     {
-    "pokeAPI_id": "Bibarel",
+    "pokemonName": "Bibarel",
     "pokeAPI_id": "bibarel",
     "url": "https://pokeapi.co/api/v2/pokemon/400/"
     },
     {
-    "pokeAPI_id": "Kricketot",
+    "pokemonName": "Kricketot",
     "pokeAPI_id": "kricketot",
     "url": "https://pokeapi.co/api/v2/pokemon/401/"
     },
     {
-    "pokeAPI_id": "Kricketune",
+    "pokemonName": "Kricketune",
     "pokeAPI_id": "kricketune",
     "url": "https://pokeapi.co/api/v2/pokemon/402/"
     },
     {
-    "pokeAPI_id": "Shinx",
+    "pokemonName": "Shinx",
     "pokeAPI_id": "shinx",
     "url": "https://pokeapi.co/api/v2/pokemon/403/"
     },
     {
-    "pokeAPI_id": "Luxio",
+    "pokemonName": "Luxio",
     "pokeAPI_id": "luxio",
     "url": "https://pokeapi.co/api/v2/pokemon/404/"
     },
     {
-    "pokeAPI_id": "Luxray",
+    "pokemonName": "Luxray",
     "pokeAPI_id": "luxray",
     "url": "https://pokeapi.co/api/v2/pokemon/405/"
     },
     {
-    "pokeAPI_id": "Budew",
+    "pokemonName": "Budew",
     "pokeAPI_id": "budew",
     "url": "https://pokeapi.co/api/v2/pokemon/406/"
     },
     {
-    "pokeAPI_id": "Roserade",
+    "pokemonName": "Roserade",
     "pokeAPI_id": "roserade",
     "url": "https://pokeapi.co/api/v2/pokemon/407/"
     },
     {
-    "pokeAPI_id": "Cranidos",
+    "pokemonName": "Cranidos",
     "pokeAPI_id": "cranidos",
     "url": "https://pokeapi.co/api/v2/pokemon/408/"
     },
     {
-    "pokeAPI_id": "Rampardos",
+    "pokemonName": "Rampardos",
     "pokeAPI_id": "rampardos",
     "url": "https://pokeapi.co/api/v2/pokemon/409/"
     },
     {
-    "pokeAPI_id": "Shieldon",
+    "pokemonName": "Shieldon",
     "pokeAPI_id": "shieldon",
     "url": "https://pokeapi.co/api/v2/pokemon/410/"
     },
     {
-    "pokeAPI_id": "Bastiodon",
+    "pokemonName": "Bastiodon",
     "pokeAPI_id": "bastiodon",
     "url": "https://pokeapi.co/api/v2/pokemon/411/"
     },
     {
-    "pokeAPI_id": "Burmy",
+    "pokemonName": "Burmy",
     "pokeAPI_id": "burmy",
     "url": "https://pokeapi.co/api/v2/pokemon/412/"
     },
     {
-    "pokeAPI_id": "Wormadam",
+    "pokemonName": "Wormadam",
     "pokeAPI_id": "wormadam-plant",
     "url": "https://pokeapi.co/api/v2/pokemon/413/"
     },
     {
-    "pokeAPI_id": "Mothim",
+    "pokemonName": "Mothim",
     "pokeAPI_id": "mothim",
     "url": "https://pokeapi.co/api/v2/pokemon/414/"
     },
     {
-    "pokeAPI_id": "Combee",
+    "pokemonName": "Combee",
     "pokeAPI_id": "combee",
     "url": "https://pokeapi.co/api/v2/pokemon/415/"
     },
     {
-    "pokeAPI_id": "Vespiquen",
+    "pokemonName": "Vespiquen",
     "pokeAPI_id": "vespiquen",
     "url": "https://pokeapi.co/api/v2/pokemon/416/"
     },
     {
-    "pokeAPI_id": "Pachirisu",
+    "pokemonName": "Pachirisu",
     "pokeAPI_id": "pachirisu",
     "url": "https://pokeapi.co/api/v2/pokemon/417/"
     },
     {
-    "pokeAPI_id": "Buizel",
+    "pokemonName": "Buizel",
     "pokeAPI_id": "buizel",
     "url": "https://pokeapi.co/api/v2/pokemon/418/"
     },
     {
-    "pokeAPI_id": "Floatzel",
+    "pokemonName": "Floatzel",
     "pokeAPI_id": "floatzel",
     "url": "https://pokeapi.co/api/v2/pokemon/419/"
     },
     {
-    "pokeAPI_id": "Cherubi",
+    "pokemonName": "Cherubi",
     "pokeAPI_id": "cherubi",
     "url": "https://pokeapi.co/api/v2/pokemon/420/"
     },
     {
-    "pokeAPI_id": "Cherrim",
+    "pokemonName": "Cherrim",
     "pokeAPI_id": "cherrim",
     "url": "https://pokeapi.co/api/v2/pokemon/421/"
     },
     {
-    "pokeAPI_id": "Shellos",
+    "pokemonName": "Shellos",
     "pokeAPI_id": "shellos",
     "url": "https://pokeapi.co/api/v2/pokemon/422/"
     },
     {
-    "pokeAPI_id": "Gastrodon",
+    "pokemonName": "Gastrodon",
     "pokeAPI_id": "gastrodon",
     "url": "https://pokeapi.co/api/v2/pokemon/423/"
     },
     {
-    "pokeAPI_id": "Ambipom",
+    "pokemonName": "Ambipom",
     "pokeAPI_id": "ambipom",
     "url": "https://pokeapi.co/api/v2/pokemon/424/"
     },
     {
-    "pokeAPI_id": "Drifloon",
+    "pokemonName": "Drifloon",
     "pokeAPI_id": "drifloon",
     "url": "https://pokeapi.co/api/v2/pokemon/425/"
     },
     {
-    "pokeAPI_id": "Drifblim",
+    "pokemonName": "Drifblim",
     "pokeAPI_id": "drifblim",
     "url": "https://pokeapi.co/api/v2/pokemon/426/"
     },
     {
-    "pokeAPI_id": "Buneary",
+    "pokemonName": "Buneary",
     "pokeAPI_id": "buneary",
     "url": "https://pokeapi.co/api/v2/pokemon/427/"
     },
     {
-    "pokeAPI_id": "Lopunny",
+    "pokemonName": "Lopunny",
     "pokeAPI_id": "lopunny",
     "url": "https://pokeapi.co/api/v2/pokemon/428/"
     },
     {
-    "pokeAPI_id": "Mismagius",
+    "pokemonName": "Mismagius",
     "pokeAPI_id": "mismagius",
     "url": "https://pokeapi.co/api/v2/pokemon/429/"
     },
     {
-    "pokeAPI_id": "Honchkrow",
+    "pokemonName": "Honchkrow",
     "pokeAPI_id": "honchkrow",
     "url": "https://pokeapi.co/api/v2/pokemon/430/"
     },
     {
-    "pokeAPI_id": "Glameow",
+    "pokemonName": "Glameow",
     "pokeAPI_id": "glameow",
     "url": "https://pokeapi.co/api/v2/pokemon/431/"
     },
     {
-    "pokeAPI_id": "Purugly",
+    "pokemonName": "Purugly",
     "pokeAPI_id": "purugly",
     "url": "https://pokeapi.co/api/v2/pokemon/432/"
     },
     {
-    "pokeAPI_id": "CHingling",
+    "pokemonName": "CHingling",
     "pokeAPI_id": "chingling",
     "url": "https://pokeapi.co/api/v2/pokemon/433/"
     },
     {
-    "pokeAPI_id": "Stunky",
+    "pokemonName": "Stunky",
     "pokeAPI_id": "stunky",
     "url": "https://pokeapi.co/api/v2/pokemon/434/"
     },
     {
-    "pokeAPI_id": "Skuntank",
+    "pokemonName": "Skuntank",
     "pokeAPI_id": "skuntank",
     "url": "https://pokeapi.co/api/v2/pokemon/435/"
     },
     {
-    "pokeAPI_id": "Bronzor",
+    "pokemonName": "Bronzor",
     "pokeAPI_id": "bronzor",
     "url": "https://pokeapi.co/api/v2/pokemon/436/"
     },
     {
-    "pokeAPI_id": "Bronzong",
+    "pokemonName": "Bronzong",
     "pokeAPI_id": "bronzong",
     "url": "https://pokeapi.co/api/v2/pokemon/437/"
     },
     {
-    "pokeAPI_id": "Bonsly",
+    "pokemonName": "Bonsly",
     "pokeAPI_id": "bonsly",
     "url": "https://pokeapi.co/api/v2/pokemon/438/"
     },
     {
-    "pokeAPI_id": "Mime-Jr",
+    "pokemonName": "Mime-Jr",
     "pokeAPI_id": "mime-jr",
     "url": "https://pokeapi.co/api/v2/pokemon/439/"
     },
     {
-    "pokeAPI_id": "Happiny",
+    "pokemonName": "Happiny",
     "pokeAPI_id": "happiny",
     "url": "https://pokeapi.co/api/v2/pokemon/440/"
     },
     {
-    "pokeAPI_id": "Chatot",
+    "pokemonName": "Chatot",
     "pokeAPI_id": "chatot",
     "url": "https://pokeapi.co/api/v2/pokemon/441/"
     },
     {
-    "pokeAPI_id": "Spiritomb",
+    "pokemonName": "Spiritomb",
     "pokeAPI_id": "spiritomb",
     "url": "https://pokeapi.co/api/v2/pokemon/442/"
     },
     {
-    "pokeAPI_id": "Gible",
+    "pokemonName": "Gible",
     "pokeAPI_id": "gible",
     "url": "https://pokeapi.co/api/v2/pokemon/443/"
     },
     {
-    "pokeAPI_id": "Gabite",
+    "pokemonName": "Gabite",
     "pokeAPI_id": "gabite",
     "url": "https://pokeapi.co/api/v2/pokemon/444/"
     },
     {
-    "pokeAPI_id": "Garchomp",
+    "pokemonName": "Garchomp",
     "pokeAPI_id": "garchomp",
     "url": "https://pokeapi.co/api/v2/pokemon/445/"
     },
     {
-    "pokeAPI_id": "Munchlax",
+    "pokemonName": "Munchlax",
     "pokeAPI_id": "munchlax",
     "url": "https://pokeapi.co/api/v2/pokemon/446/"
     },
     {
-    "pokeAPI_id": "Riolu",
+    "pokemonName": "Riolu",
     "pokeAPI_id": "riolu",
     "url": "https://pokeapi.co/api/v2/pokemon/447/"
     },
     {
-    "pokeAPI_id": "Lucario",
+    "pokemonName": "Lucario",
     "pokeAPI_id": "lucario",
     "url": "https://pokeapi.co/api/v2/pokemon/448/"
     },
     {
-    "pokeAPI_id": "Hippopotas",
+    "pokemonName": "Hippopotas",
     "pokeAPI_id": "hippopotas",
     "url": "https://pokeapi.co/api/v2/pokemon/449/"
     },
     {
-    "pokeAPI_id": "Hippowdon",
+    "pokemonName": "Hippowdon",
     "pokeAPI_id": "hippowdon",
     "url": "https://pokeapi.co/api/v2/pokemon/450/"
     },
     {
-    "pokeAPI_id": "Skorupi",
+    "pokemonName": "Skorupi",
     "pokeAPI_id": "skorupi",
     "url": "https://pokeapi.co/api/v2/pokemon/451/"
     },
     {
-    "pokeAPI_id": "Drapion",
+    "pokemonName": "Drapion",
     "pokeAPI_id": "drapion",
     "url": "https://pokeapi.co/api/v2/pokemon/452/"
     },
     {
-    "pokeAPI_id": "Croagunk",
+    "pokemonName": "Croagunk",
     "pokeAPI_id": "croagunk",
     "url": "https://pokeapi.co/api/v2/pokemon/453/"
     },
     {
-    "pokeAPI_id": "Toxicroak",
+    "pokemonName": "Toxicroak",
     "pokeAPI_id": "toxicroak",
     "url": "https://pokeapi.co/api/v2/pokemon/454/"
     },
     {
-    "pokeAPI_id": "Cranivine",
+    "pokemonName": "Cranivine",
     "pokeAPI_id": "carnivine",
     "url": "https://pokeapi.co/api/v2/pokemon/455/"
     },
     {
-    "pokeAPI_id": "Finneon",
+    "pokemonName": "Finneon",
     "pokeAPI_id": "finneon",
     "url": "https://pokeapi.co/api/v2/pokemon/456/"
     },
     {
-    "pokeAPI_id": "Lumineon",
+    "pokemonName": "Lumineon",
     "pokeAPI_id": "lumineon",
     "url": "https://pokeapi.co/api/v2/pokemon/457/"
     },
     {
-    "pokeAPI_id": "Mantyke",
+    "pokemonName": "Mantyke",
     "pokeAPI_id": "mantyke",
     "url": "https://pokeapi.co/api/v2/pokemon/458/"
     },
     {
-    "pokeAPI_id": "Snover",
+    "pokemonName": "Snover",
     "pokeAPI_id": "snover",
     "url": "https://pokeapi.co/api/v2/pokemon/459/"
     },
     {
-    "pokeAPI_id": "Abomasnow",
+    "pokemonName": "Abomasnow",
     "pokeAPI_id": "abomasnow",
     "url": "https://pokeapi.co/api/v2/pokemon/460/"
     },
     {
-    "pokeAPI_id": "Weavile",
+    "pokemonName": "Weavile",
     "pokeAPI_id": "weavile",
     "url": "https://pokeapi.co/api/v2/pokemon/461/"
     },
     {
-    "pokeAPI_id": "Magnezone",
+    "pokemonName": "Magnezone",
     "pokeAPI_id": "magnezone",
     "url": "https://pokeapi.co/api/v2/pokemon/462/"
     },
     {
-    "pokeAPI_id": "Lickilicky",
+    "pokemonName": "Lickilicky",
     "pokeAPI_id": "lickilicky",
     "url": "https://pokeapi.co/api/v2/pokemon/463/"
     },
     {
-    "pokeAPI_id": "Rhyperior",
+    "pokemonName": "Rhyperior",
     "pokeAPI_id": "rhyperior",
     "url": "https://pokeapi.co/api/v2/pokemon/464/"
     },
     {
-    "pokeAPI_id": "Tangrowth",
+    "pokemonName": "Tangrowth",
     "pokeAPI_id": "tangrowth",
     "url": "https://pokeapi.co/api/v2/pokemon/465/"
     },
     {
-    "pokeAPI_id": "Electivire",
+    "pokemonName": "Electivire",
     "pokeAPI_id": "electivire",
     "url": "https://pokeapi.co/api/v2/pokemon/466/"
     },
     {
-    "pokeAPI_id": "Magmortar",
+    "pokemonName": "Magmortar",
     "pokeAPI_id": "magmortar",
     "url": "https://pokeapi.co/api/v2/pokemon/467/"
     },
     {
-    "pokeAPI_id": "Togekiss",
+    "pokemonName": "Togekiss",
     "pokeAPI_id": "togekiss",
     "url": "https://pokeapi.co/api/v2/pokemon/468/"
     },
     {
-    "pokeAPI_id": "Yanmega",
+    "pokemonName": "Yanmega",
     "pokeAPI_id": "yanmega",
     "url": "https://pokeapi.co/api/v2/pokemon/469/"
     },
     {
-    "pokeAPI_id": "Leafeon",
+    "pokemonName": "Leafeon",
     "pokeAPI_id": "leafeon",
     "url": "https://pokeapi.co/api/v2/pokemon/470/"
     },
     {
-    "pokeAPI_id": "Glacean",
+    "pokemonName": "Glacean",
     "pokeAPI_id": "glaceon",
     "url": "https://pokeapi.co/api/v2/pokemon/471/"
     },
     {
-    "pokeAPI_id": "Gliscor",
+    "pokemonName": "Gliscor",
     "pokeAPI_id": "gliscor",
     "url": "https://pokeapi.co/api/v2/pokemon/472/"
     },
     {
-    "pokeAPI_id": "Mamoswine",
+    "pokemonName": "Mamoswine",
     "pokeAPI_id": "mamoswine",
     "url": "https://pokeapi.co/api/v2/pokemon/473/"
     },
     {
-    "pokeAPI_id": "Porygon Z",
+    "pokemonName": "Porygon Z",
     "pokeAPI_id": "porygon-z",
     "url": "https://pokeapi.co/api/v2/pokemon/474/"
     },
     {
-    "pokeAPI_id": "Gallade",
+    "pokemonName": "Gallade",
     "pokeAPI_id": "gallade",
     "url": "https://pokeapi.co/api/v2/pokemon/475/"
     },
     {
-    "pokeAPI_id": "Probopass",
+    "pokemonName": "Probopass",
     "pokeAPI_id": "probopass",
     "url": "https://pokeapi.co/api/v2/pokemon/476/"
     },
     {
-    "pokeAPI_id": "Dusknoir",
+    "pokemonName": "Dusknoir",
     "pokeAPI_id": "dusknoir",
     "url": "https://pokeapi.co/api/v2/pokemon/477/"
     },
     {
-    "pokeAPI_id": "Froslass",
+    "pokemonName": "Froslass",
     "pokeAPI_id": "froslass",
     "url": "https://pokeapi.co/api/v2/pokemon/478/"
     },
     {
-    "pokeAPI_id": "Rotom",
+    "pokemonName": "Rotom",
     "pokeAPI_id": "rotom",
     "url": "https://pokeapi.co/api/v2/pokemon/479/"
     },
     {
-    "pokeAPI_id": "Uxie",
+    "pokemonName": "Uxie",
     "pokeAPI_id": "uxie",
     "url": "https://pokeapi.co/api/v2/pokemon/480/"
     },
     {
-    "pokeAPI_id": "Mesprit",
+    "pokemonName": "Mesprit",
     "pokeAPI_id": "mesprit",
     "url": "https://pokeapi.co/api/v2/pokemon/481/"
     },
     {
-    "pokeAPI_id": "Azelf",
+    "pokemonName": "Azelf",
     "pokeAPI_id": "azelf",
     "url": "https://pokeapi.co/api/v2/pokemon/482/"
     },
     {
-    "pokeAPI_id": "Dialga",
+    "pokemonName": "Dialga",
     "pokeAPI_id": "dialga",
     "url": "https://pokeapi.co/api/v2/pokemon/483/"
     },
     {
-    "pokeAPI_id": "Palkia",
+    "pokemonName": "Palkia",
     "pokeAPI_id": "palkia",
     "url": "https://pokeapi.co/api/v2/pokemon/484/"
     },
     {
-    "pokeAPI_id": "Heatran",
+    "pokemonName": "Heatran",
     "pokeAPI_id": "heatran",
     "url": "https://pokeapi.co/api/v2/pokemon/485/"
     },
     {
-    "pokeAPI_id": "Regigigas",
+    "pokemonName": "Regigigas",
     "pokeAPI_id": "regigigas",
     "url": "https://pokeapi.co/api/v2/pokemon/486/"
     },
     {
-    "pokeAPI_id": "Giratina",
+    "pokemonName": "Giratina",
     "pokeAPI_id": "giratina-altered",
     "url": "https://pokeapi.co/api/v2/pokemon/487/"
     },
     {
-    "pokeAPI_id": "Cresselia",
+    "pokemonName": "Cresselia",
     "pokeAPI_id": "cresselia",
     "url": "https://pokeapi.co/api/v2/pokemon/488/"
     },
     {
-    "pokeAPI_id": "Phione",
+    "pokemonName": "Phione",
     "pokeAPI_id": "phione",
     "url": "https://pokeapi.co/api/v2/pokemon/489/"
     },
     {
-    "pokeAPI_id": "Manaphy",
+    "pokemonName": "Manaphy",
     "pokeAPI_id": "manaphy",
     "url": "https://pokeapi.co/api/v2/pokemon/490/"
     },
     {
-    "pokeAPI_id": "Darkrai",
+    "pokemonName": "Darkrai",
     "pokeAPI_id": "darkrai",
     "url": "https://pokeapi.co/api/v2/pokemon/491/"
     },
     {
-    "pokeAPI_id": "Shaymin",
+    "pokemonName": "Shaymin",
     "pokeAPI_id": "shaymin-land",
     "url": "https://pokeapi.co/api/v2/pokemon/492/"
     },
     {
-    "pokeAPI_id": "Arceus",
+    "pokemonName": "Arceus",
     "pokeAPI_id": "arceus",
     "url": "https://pokeapi.co/api/v2/pokemon/493/"
     },
     {
-    "pokeAPI_id": "Victini",
+    "pokemonName": "Victini",
     "pokeAPI_id": "victini",
     "url": "https://pokeapi.co/api/v2/pokemon/494/"
     },
     {
-    "pokeAPI_id": "Snivy",
+    "pokemonName": "Snivy",
     "pokeAPI_id": "snivy",
     "url": "https://pokeapi.co/api/v2/pokemon/495/"
     },
     {
-    "pokeAPI_id": "Servine",
+    "pokemonName": "Servine",
     "pokeAPI_id": "servine",
     "url": "https://pokeapi.co/api/v2/pokemon/496/"
     },
     {
-    "pokeAPI_id": "Serperior",
+    "pokemonName": "Serperior",
     "pokeAPI_id": "serperior",
     "url": "https://pokeapi.co/api/v2/pokemon/497/"
     },
     {
-    "pokeAPI_id": "Tepig",
+    "pokemonName": "Tepig",
     "pokeAPI_id": "tepig",
     "url": "https://pokeapi.co/api/v2/pokemon/498/"
     },
     {
-    "pokeAPI_id": "Pignite",
+    "pokemonName": "Pignite",
     "pokeAPI_id": "pignite",
     "url": "https://pokeapi.co/api/v2/pokemon/499/"
     },
     {
-    "pokeAPI_id": "Emboar",
+    "pokemonName": "Emboar",
     "pokeAPI_id": "emboar",
     "url": "https://pokeapi.co/api/v2/pokemon/500/"
     },
     {
-    "pokeAPI_id": "Oshawott",
+    "pokemonName": "Oshawott",
     "pokeAPI_id": "oshawott",
     "url": "https://pokeapi.co/api/v2/pokemon/501/"
     },
     {
-    "pokeAPI_id": "Dewott",
+    "pokemonName": "Dewott",
     "pokeAPI_id": "dewott",
     "url": "https://pokeapi.co/api/v2/pokemon/502/"
     },
     {
-    "pokeAPI_id": "Samurott",
+    "pokemonName": "Samurott",
     "pokeAPI_id": "samurott",
     "url": "https://pokeapi.co/api/v2/pokemon/503/"
     },
     {
-    "pokeAPI_id": "Patrat",
+    "pokemonName": "Patrat",
     "pokeAPI_id": "patrat",
     "url": "https://pokeapi.co/api/v2/pokemon/504/"
     },
     {
-    "pokeAPI_id": "Watchog",
+    "pokemonName": "Watchog",
     "pokeAPI_id": "watchog",
     "url": "https://pokeapi.co/api/v2/pokemon/505/"
     },
     {
-    "pokeAPI_id": "Lillipup",
+    "pokemonName": "Lillipup",
     "pokeAPI_id": "lillipup",
     "url": "https://pokeapi.co/api/v2/pokemon/506/"
     },
     {
-    "pokeAPI_id": "Herdier",
+    "pokemonName": "Herdier",
     "pokeAPI_id": "herdier",
     "url": "https://pokeapi.co/api/v2/pokemon/507/"
     },
     {
-    "pokeAPI_id": "Stoutland",
+    "pokemonName": "Stoutland",
     "pokeAPI_id": "stoutland",
     "url": "https://pokeapi.co/api/v2/pokemon/508/"
     },
     {
-    "pokeAPI_id": "Purrloin",
+    "pokemonName": "Purrloin",
     "pokeAPI_id": "purrloin",
     "url": "https://pokeapi.co/api/v2/pokemon/509/"
     },
     {
-    "pokeAPI_id": "Liepard",
+    "pokemonName": "Liepard",
     "pokeAPI_id": "liepard",
     "url": "https://pokeapi.co/api/v2/pokemon/510/"
     },
     {
-    "pokeAPI_id": "Pansage",
+    "pokemonName": "Pansage",
     "pokeAPI_id": "pansage",
     "url": "https://pokeapi.co/api/v2/pokemon/511/"
     },
     {
-    "pokeAPI_id": "Simisage",
+    "pokemonName": "Simisage",
     "pokeAPI_id": "simisage",
     "url": "https://pokeapi.co/api/v2/pokemon/512/"
     },
     {
-    "pokeAPI_id": "Pansear",
+    "pokemonName": "Pansear",
     "pokeAPI_id": "pansear",
     "url": "https://pokeapi.co/api/v2/pokemon/513/"
     },
     {
-    "pokeAPI_id": "Simisear",
+    "pokemonName": "Simisear",
     "pokeAPI_id": "simisear",
     "url": "https://pokeapi.co/api/v2/pokemon/514/"
     },
     {
-    "pokeAPI_id": "Panpour",
+    "pokemonName": "Panpour",
     "pokeAPI_id": "panpour",
     "url": "https://pokeapi.co/api/v2/pokemon/515/"
     },
     {
-    "pokeAPI_id": "Simipour",
+    "pokemonName": "Simipour",
     "pokeAPI_id": "simipour",
     "url": "https://pokeapi.co/api/v2/pokemon/516/"
     },
     {
-    "pokeAPI_id": "Munna",
+    "pokemonName": "Munna",
     "pokeAPI_id": "munna",
     "url": "https://pokeapi.co/api/v2/pokemon/517/"
     },
     {
-    "pokeAPI_id": "Musharna",
+    "pokemonName": "Musharna",
     "pokeAPI_id": "musharna",
     "url": "https://pokeapi.co/api/v2/pokemon/518/"
     },
     {
-    "pokeAPI_id": "Pidove",
+    "pokemonName": "Pidove",
     "pokeAPI_id": "pidove",
     "url": "https://pokeapi.co/api/v2/pokemon/519/"
     },
     {
-    "pokeAPI_id": "Tranquill",
+    "pokemonName": "Tranquill",
     "pokeAPI_id": "tranquill",
     "url": "https://pokeapi.co/api/v2/pokemon/520/"
     },
     {
-    "pokeAPI_id": "Unfezant",
+    "pokemonName": "Unfezant",
     "pokeAPI_id": "unfezant",
     "url": "https://pokeapi.co/api/v2/pokemon/521/"
     },
     {
-    "pokeAPI_id": "Blitzle",
+    "pokemonName": "Blitzle",
     "pokeAPI_id": "blitzle",
     "url": "https://pokeapi.co/api/v2/pokemon/522/"
     },
     {
-    "pokeAPI_id": "Zebstrika",
+    "pokemonName": "Zebstrika",
     "pokeAPI_id": "zebstrika",
     "url": "https://pokeapi.co/api/v2/pokemon/523/"
     },
     {
-    "pokeAPI_id": "Roggenrola",
+    "pokemonName": "Roggenrola",
     "pokeAPI_id": "roggenrola",
     "url": "https://pokeapi.co/api/v2/pokemon/524/"
     },
     {
-    "pokeAPI_id": "Boldore",
+    "pokemonName": "Boldore",
     "pokeAPI_id": "boldore",
     "url": "https://pokeapi.co/api/v2/pokemon/525/"
     },
     {
-    "pokeAPI_id": "Gigalith",
+    "pokemonName": "Gigalith",
     "pokeAPI_id": "gigalith",
     "url": "https://pokeapi.co/api/v2/pokemon/526/"
     },
     {
-    "pokeAPI_id": "Woobat",
+    "pokemonName": "Woobat",
     "pokeAPI_id": "woobat",
     "url": "https://pokeapi.co/api/v2/pokemon/527/"
     },
     {
-    "pokeAPI_id": "Swoobat",
+    "pokemonName": "Swoobat",
     "pokeAPI_id": "swoobat",
     "url": "https://pokeapi.co/api/v2/pokemon/528/"
     },
     {
-    "pokeAPI_id": "Drilbur",
+    "pokemonName": "Drilbur",
     "pokeAPI_id": "drilbur",
     "url": "https://pokeapi.co/api/v2/pokemon/529/"
     },
     {
-    "pokeAPI_id": "Excadrill",
+    "pokemonName": "Excadrill",
     "pokeAPI_id": "excadrill",
     "url": "https://pokeapi.co/api/v2/pokemon/530/"
     },
     {
-    "pokeAPI_id": "Audino",
+    "pokemonName": "Audino",
     "pokeAPI_id": "audino",
     "url": "https://pokeapi.co/api/v2/pokemon/531/"
     },
     {
-    "pokeAPI_id": "Timburr",
+    "pokemonName": "Timburr",
     "pokeAPI_id": "timburr",
     "url": "https://pokeapi.co/api/v2/pokemon/532/"
     },
     {
-    "pokeAPI_id": "Gurdurr",
+    "pokemonName": "Gurdurr",
     "pokeAPI_id": "gurdurr",
     "url": "https://pokeapi.co/api/v2/pokemon/533/"
     },
     {
-    "pokeAPI_id": "Conkeldurr",
+    "pokemonName": "Conkeldurr",
     "pokeAPI_id": "conkeldurr",
     "url": "https://pokeapi.co/api/v2/pokemon/534/"
     },
     {
-    "pokeAPI_id": "Tympole",
+    "pokemonName": "Tympole",
     "pokeAPI_id": "tympole",
     "url": "https://pokeapi.co/api/v2/pokemon/535/"
     },
     {
-    "pokeAPI_id": "Palpitoad",
+    "pokemonName": "Palpitoad",
     "pokeAPI_id": "palpitoad",
     "url": "https://pokeapi.co/api/v2/pokemon/536/"
     },
     {
-    "pokeAPI_id": "Seismitoad",
+    "pokemonName": "Seismitoad",
     "pokeAPI_id": "seismitoad",
     "url": "https://pokeapi.co/api/v2/pokemon/537/"
     },
     {
-    "pokeAPI_id": "Throh",
+    "pokemonName": "Throh",
     "pokeAPI_id": "throh",
     "url": "https://pokeapi.co/api/v2/pokemon/538/"
     },
     {
-    "pokeAPI_id": "Sawk",
+    "pokemonName": "Sawk",
     "pokeAPI_id": "sawk",
     "url": "https://pokeapi.co/api/v2/pokemon/539/"
     },
     {
-    "pokeAPI_id": "Sewaddle",
+    "pokemonName": "Sewaddle",
     "pokeAPI_id": "sewaddle",
     "url": "https://pokeapi.co/api/v2/pokemon/540/"
     },
     {
-    "pokeAPI_id": "Swadloon",
+    "pokemonName": "Swadloon",
     "pokeAPI_id": "swadloon",
     "url": "https://pokeapi.co/api/v2/pokemon/541/"
     },
     {
-    "pokeAPI_id": "Leavanny",
+    "pokemonName": "Leavanny",
     "pokeAPI_id": "leavanny",
     "url": "https://pokeapi.co/api/v2/pokemon/542/"
     },
     {
-    "pokeAPI_id": "Venipede",
+    "pokemonName": "Venipede",
     "pokeAPI_id": "venipede",
     "url": "https://pokeapi.co/api/v2/pokemon/543/"
     },
     {
-    "pokeAPI_id": "Whirlipede",
+    "pokemonName": "Whirlipede",
     "pokeAPI_id": "whirlipede",
     "url": "https://pokeapi.co/api/v2/pokemon/544/"
     },
     {
-    "pokeAPI_id": "Scolipede",
+    "pokemonName": "Scolipede",
     "pokeAPI_id": "scolipede",
     "url": "https://pokeapi.co/api/v2/pokemon/545/"
     },
     {
-    "pokeAPI_id": "Cottonee",
+    "pokemonName": "Cottonee",
     "pokeAPI_id": "cottonee",
     "url": "https://pokeapi.co/api/v2/pokemon/546/"
     },
     {
-    "pokeAPI_id": "Whimsicott",
+    "pokemonName": "Whimsicott",
     "pokeAPI_id": "whimsicott",
     "url": "https://pokeapi.co/api/v2/pokemon/547/"
     },
     {
-    "pokeAPI_id": "Petilil",
+    "pokemonName": "Petilil",
     "pokeAPI_id": "petilil",
     "url": "https://pokeapi.co/api/v2/pokemon/548/"
     },
     {
-    "pokeAPI_id": "Lilligant",
+    "pokemonName": "Lilligant",
     "pokeAPI_id": "lilligant",
     "url": "https://pokeapi.co/api/v2/pokemon/549/"
     },
     {
-    "pokeAPI_id": "Basculin",
+    "pokemonName": "Basculin",
     "pokeAPI_id": "basculin-red-striped",
     "url": "https://pokeapi.co/api/v2/pokemon/550/"
     },
     {
-    "pokeAPI_id": "Sandile",
+    "pokemonName": "Sandile",
     "pokeAPI_id": "sandile",
     "url": "https://pokeapi.co/api/v2/pokemon/551/"
     },
     {
-    "pokeAPI_id": "Krokorok",
+    "pokemonName": "Krokorok",
     "pokeAPI_id": "krokorok",
     "url": "https://pokeapi.co/api/v2/pokemon/552/"
     },
     {
-    "pokeAPI_id": "Krookodile",
+    "pokemonName": "Krookodile",
     "pokeAPI_id": "krookodile",
     "url": "https://pokeapi.co/api/v2/pokemon/553/"
     },
     {
-    "pokeAPI_id": "Darumaka",
+    "pokemonName": "Darumaka",
     "pokeAPI_id": "darumaka",
     "url": "https://pokeapi.co/api/v2/pokemon/554/"
     },
     {
-    "pokeAPI_id": "Darmanitan",
+    "pokemonName": "Darmanitan",
     "pokeAPI_id": "darmanitan-standard",
     "url": "https://pokeapi.co/api/v2/pokemon/555/"
     },
     {
-    "pokeAPI_id": "Maractus",
+    "pokemonName": "Maractus",
     "pokeAPI_id": "maractus",
     "url": "https://pokeapi.co/api/v2/pokemon/556/"
     },
     {
-    "pokeAPI_id": "Dweeble",
+    "pokemonName": "Dweeble",
     "pokeAPI_id": "dwebble",
     "url": "https://pokeapi.co/api/v2/pokemon/557/"
     },
     {
-    "pokeAPI_id": "Crustle",
+    "pokemonName": "Crustle",
     "pokeAPI_id": "crustle",
     "url": "https://pokeapi.co/api/v2/pokemon/558/"
     },
     {
-    "pokeAPI_id": "Scraggy",
+    "pokemonName": "Scraggy",
     "pokeAPI_id": "scraggy",
     "url": "https://pokeapi.co/api/v2/pokemon/559/"
     },
     {
-    "pokeAPI_id": "Scrafty",
+    "pokemonName": "Scrafty",
     "pokeAPI_id": "scrafty",
     "url": "https://pokeapi.co/api/v2/pokemon/560/"
     },
     {
-    "pokeAPI_id": "Sigilyph",
+    "pokemonName": "Sigilyph",
     "pokeAPI_id": "sigilyph",
     "url": "https://pokeapi.co/api/v2/pokemon/561/"
     },
     {
-    "pokeAPI_id": "Yamask",
+    "pokemonName": "Yamask",
     "pokeAPI_id": "yamask",
     "url": "https://pokeapi.co/api/v2/pokemon/562/"
     },
     {
-    "pokeAPI_id": "Gofagrigus",
+    "pokemonName": "Gofagrigus",
     "pokeAPI_id": "cofagrigus",
     "url": "https://pokeapi.co/api/v2/pokemon/563/"
     },
     {
-    "pokeAPI_id": "Tirtouga",
+    "pokemonName": "Tirtouga",
     "pokeAPI_id": "tirtouga",
     "url": "https://pokeapi.co/api/v2/pokemon/564/"
     },
     {
-    "pokeAPI_id": "Carracosta",
+    "pokemonName": "Carracosta",
     "pokeAPI_id": "carracosta",
     "url": "https://pokeapi.co/api/v2/pokemon/565/"
     },
     {
-    "pokeAPI_id": "Archen",
+    "pokemonName": "Archen",
     "pokeAPI_id": "archen",
     "url": "https://pokeapi.co/api/v2/pokemon/566/"
     },
     {
-    "pokeAPI_id": "Archeops",
+    "pokemonName": "Archeops",
     "pokeAPI_id": "archeops",
     "url": "https://pokeapi.co/api/v2/pokemon/567/"
     },
     {
-    "pokeAPI_id": "Trubbish",
+    "pokemonName": "Trubbish",
     "pokeAPI_id": "trubbish",
     "url": "https://pokeapi.co/api/v2/pokemon/568/"
     },
     {
-    "pokeAPI_id": "Garbodor",
+    "pokemonName": "Garbodor",
     "pokeAPI_id": "garbodor",
     "url": "https://pokeapi.co/api/v2/pokemon/569/"
     },
     {
-    "pokeAPI_id": "Zorua",
+    "pokemonName": "Zorua",
     "pokeAPI_id": "zorua",
     "url": "https://pokeapi.co/api/v2/pokemon/570/"
     },
     {
-    "pokeAPI_id": "Zoroark",
+    "pokemonName": "Zoroark",
     "pokeAPI_id": "zoroark",
     "url": "https://pokeapi.co/api/v2/pokemon/571/"
     },
     {
-    "pokeAPI_id": "Minccino",
+    "pokemonName": "Minccino",
     "pokeAPI_id": "minccino",
     "url": "https://pokeapi.co/api/v2/pokemon/572/"
     },
     {
-    "pokeAPI_id": "Cinccino",
+    "pokemonName": "Cinccino",
     "pokeAPI_id": "cinccino",
     "url": "https://pokeapi.co/api/v2/pokemon/573/"
     },
     {
-    "pokeAPI_id": "Gothita",
+    "pokemonName": "Gothita",
     "pokeAPI_id": "gothita",
     "url": "https://pokeapi.co/api/v2/pokemon/574/"
     },
     {
-    "pokeAPI_id": "Gotharita",
+    "pokemonName": "Gotharita",
     "pokeAPI_id": "gothorita",
     "url": "https://pokeapi.co/api/v2/pokemon/575/"
     },
     {
-    "pokeAPI_id": "Gothitelle",
+    "pokemonName": "Gothitelle",
     "pokeAPI_id": "gothitelle",
     "url": "https://pokeapi.co/api/v2/pokemon/576/"
     },
     {
-    "pokeAPI_id": "Solosis",
+    "pokemonName": "Solosis",
     "pokeAPI_id": "solosis",
     "url": "https://pokeapi.co/api/v2/pokemon/577/"
     },
     {
-    "pokeAPI_id": "Duosion",
+    "pokemonName": "Duosion",
     "pokeAPI_id": "duosion",
     "url": "https://pokeapi.co/api/v2/pokemon/578/"
     },
     {
-    "pokeAPI_id": "Reuniclus",
+    "pokemonName": "Reuniclus",
     "pokeAPI_id": "reuniclus",
     "url": "https://pokeapi.co/api/v2/pokemon/579/"
     },
     {
-    "pokeAPI_id": "Ducklett",
+    "pokemonName": "Ducklett",
     "pokeAPI_id": "ducklett",
     "url": "https://pokeapi.co/api/v2/pokemon/580/"
     },
     {
-    "pokeAPI_id": "Swanna",
+    "pokemonName": "Swanna",
     "pokeAPI_id": "swanna",
     "url": "https://pokeapi.co/api/v2/pokemon/581/"
     },
     {
-    "pokeAPI_id": "Vanillite",
+    "pokemonName": "Vanillite",
     "pokeAPI_id": "vanillite",
     "url": "https://pokeapi.co/api/v2/pokemon/582/"
     },
     {
-    "pokeAPI_id": "Vanillish",
+    "pokemonName": "Vanillish",
     "pokeAPI_id": "vanillish",
     "url": "https://pokeapi.co/api/v2/pokemon/583/"
     },
     {
-    "pokeAPI_id": "Vanilluxe",
+    "pokemonName": "Vanilluxe",
     "pokeAPI_id": "vanilluxe",
     "url": "https://pokeapi.co/api/v2/pokemon/584/"
     },
     {
-    "pokeAPI_id": "Deerling",
+    "pokemonName": "Deerling",
     "pokeAPI_id": "deerling",
     "url": "https://pokeapi.co/api/v2/pokemon/585/"
     },
     {
-    "pokeAPI_id": "Sawsbuck",
+    "pokemonName": "Sawsbuck",
     "pokeAPI_id": "sawsbuck",
     "url": "https://pokeapi.co/api/v2/pokemon/586/"
     },
     {
-    "pokeAPI_id": "Emolga",
+    "pokemonName": "Emolga",
     "pokeAPI_id": "emolga",
     "url": "https://pokeapi.co/api/v2/pokemon/587/"
     },
     {
-    "pokeAPI_id": "Karrablast",
+    "pokemonName": "Karrablast",
     "pokeAPI_id": "karrablast",
     "url": "https://pokeapi.co/api/v2/pokemon/588/"
     },
     {
-    "pokeAPI_id": "Escavalier",
+    "pokemonName": "Escavalier",
     "pokeAPI_id": "escavalier",
     "url": "https://pokeapi.co/api/v2/pokemon/589/"
     },
     {
-    "pokeAPI_id": "Foongus",
+    "pokemonName": "Foongus",
     "pokeAPI_id": "foongus",
     "url": "https://pokeapi.co/api/v2/pokemon/590/"
     },
@@ -2960,1928 +2960,1827 @@ const pokedex = [
     "url": "https://pokeapi.co/api/v2/pokemon/592/"
     },
     {
-    "pokeAPI_id": "Jellicent",
+    "pokemonName": "Jellicent",
     "pokeAPI_id": "jellicent",
     "url": "https://pokeapi.co/api/v2/pokemon/593/"
     },
     {
-    "pokeAPI_id": "Alomomola",
+    "pokemonName": "Alomomola",
     "pokeAPI_id": "alomomola",
     "url": "https://pokeapi.co/api/v2/pokemon/594/"
     },
     {
-    "pokeAPI_id": "Joltik",
+    "pokemonName": "Joltik",
     "pokeAPI_id": "joltik",
     "url": "https://pokeapi.co/api/v2/pokemon/595/"
     },
     {
-    "pokeAPI_id": "Galvantula",
+    "pokemonName": "Galvantula",
     "pokeAPI_id": "galvantula",
     "url": "https://pokeapi.co/api/v2/pokemon/596/"
     },
     {
-    "pokeAPI_id": "Ferroseed",
+    "pokemonName": "Ferroseed",
     "pokeAPI_id": "ferroseed",
     "url": "https://pokeapi.co/api/v2/pokemon/597/"
     },
     {
-    "pokeAPI_id": "Ferrothorn",
+    "pokemonName": "Ferrothorn",
     "pokeAPI_id": "ferrothorn",
     "url": "https://pokeapi.co/api/v2/pokemon/598/"
     },
     {
-    "pokeAPI_id": "Klink",
+    "pokemonName": "Klink",
     "pokeAPI_id": "klink",
     "url": "https://pokeapi.co/api/v2/pokemon/599/"
     },
     {
-    "pokeAPI_id": "Klang",
+    "pokemonName": "Klang",
     "pokeAPI_id": "klang",
     "url": "https://pokeapi.co/api/v2/pokemon/600/"
     },
     {
-    "pokeAPI_id": "Klinklang",
+    "pokemonName": "Klinklang",
     "pokeAPI_id": "klinklang",
     "url": "https://pokeapi.co/api/v2/pokemon/601/"
     },
     {
-    "pokeAPI_id": "Tynamo",
+    "pokemonName": "Tynamo",
     "pokeAPI_id": "tynamo",
     "url": "https://pokeapi.co/api/v2/pokemon/602/"
     },
     {
-    "pokeAPI_id": "Eelektrik",
+    "pokemonName": "Eelektrik",
     "pokeAPI_id": "eelektrik",
     "url": "https://pokeapi.co/api/v2/pokemon/603/"
     },
     {
-    "pokeAPI_id": "Eelektross",
+    "pokemonName": "Eelektross",
     "pokeAPI_id": "eelektross",
     "url": "https://pokeapi.co/api/v2/pokemon/604/"
     },
     {
-    "pokeAPI_id": "Elgyem",
+    "pokemonName": "Elgyem",
     "pokeAPI_id": "elgyem",
     "url": "https://pokeapi.co/api/v2/pokemon/605/"
     },
     {
-    "pokeAPI_id": "Beheeyem",
+    "pokemonName": "Beheeyem",
     "pokeAPI_id": "beheeyem",
     "url": "https://pokeapi.co/api/v2/pokemon/606/"
     },
     {
-    "pokeAPI_id": "Litwick",
+    "pokemonName": "Litwick",
     "pokeAPI_id": "litwick",
     "url": "https://pokeapi.co/api/v2/pokemon/607/"
     },
     {
-    "pokeAPI_id": "Lampent",
+    "pokemonName": "Lampent",
     "pokeAPI_id": "lampent",
     "url": "https://pokeapi.co/api/v2/pokemon/608/"
     },
     {
-    "pokeAPI_id": "Chandelure",
+    "pokemonName": "Chandelure",
     "pokeAPI_id": "chandelure",
     "url": "https://pokeapi.co/api/v2/pokemon/609/"
     },
     {
-    "pokeAPI_id": "Axew",
+    "pokemonName": "Axew",
     "pokeAPI_id": "axew",
     "url": "https://pokeapi.co/api/v2/pokemon/610/"
     },
     {
-    "pokeAPI_id": "Franxure",
+    "pokemonName": "Franxure",
     "pokeAPI_id": "fraxure",
     "url": "https://pokeapi.co/api/v2/pokemon/611/"
     },
     {
-    "pokeAPI_id": "Haxorus",
+    "pokemonName": "Haxorus",
     "pokeAPI_id": "haxorus",
     "url": "https://pokeapi.co/api/v2/pokemon/612/"
     },
     {
-    "pokeAPI_id": "Cubchoo",
+    "pokemonName": "Cubchoo",
     "pokeAPI_id": "cubchoo",
     "url": "https://pokeapi.co/api/v2/pokemon/613/"
     },
     {
-    "pokeAPI_id": "Beartic",
+    "pokemonName": "Beartic",
     "pokeAPI_id": "beartic",
     "url": "https://pokeapi.co/api/v2/pokemon/614/"
     },
     {
-    "pokeAPI_id": "Cryogonal",
+    "pokemonName": "Cryogonal",
     "pokeAPI_id": "cryogonal",
     "url": "https://pokeapi.co/api/v2/pokemon/615/"
     },
     {
-    "pokeAPI_id": "Shelmet",
+    "pokemonName": "Shelmet",
     "pokeAPI_id": "shelmet",
     "url": "https://pokeapi.co/api/v2/pokemon/616/"
     },
     {
-    "pokeAPI_id": "Accelgor",
+    "pokemonName": "Accelgor",
     "pokeAPI_id": "accelgor",
     "url": "https://pokeapi.co/api/v2/pokemon/617/"
     },
     {
-    "pokeAPI_id": "Stunfisk",
+    "pokemonName": "Stunfisk",
     "pokeAPI_id": "stunfisk",
     "url": "https://pokeapi.co/api/v2/pokemon/618/"
     },
     {
-    "pokeAPI_id": "Mienfoo",
+    "pokemonName": "Mienfoo",
     "pokeAPI_id": "mienfoo",
     "url": "https://pokeapi.co/api/v2/pokemon/619/"
     },
     {
-    "pokeAPI_id": "Miesnshao",
+    "pokemonName": "Miesnshao",
     "pokeAPI_id": "mienshao",
     "url": "https://pokeapi.co/api/v2/pokemon/620/"
     },
     {
-    "pokeAPI_id": "Druddigon",
+    "pokemonName": "Druddigon",
     "pokeAPI_id": "druddigon",
     "url": "https://pokeapi.co/api/v2/pokemon/621/"
     },
     {
-    "pokeAPI_id": "Golett",
+    "pokemonName": "Golett",
     "pokeAPI_id": "golett",
     "url": "https://pokeapi.co/api/v2/pokemon/622/"
     },
     {
-    "pokeAPI_id": "Golurk",
+    "pokemonName": "Golurk",
     "pokeAPI_id": "golurk",
     "url": "https://pokeapi.co/api/v2/pokemon/623/"
     },
     {
-    "pokeAPI_id": "Pawniard",
+    "pokemonName": "Pawniard",
     "pokeAPI_id": "pawniard",
     "url": "https://pokeapi.co/api/v2/pokemon/624/"
     },
     {
-    "pokeAPI_id": "Bisharp",
+    "pokemonName": "Bisharp",
     "pokeAPI_id": "bisharp",
     "url": "https://pokeapi.co/api/v2/pokemon/625/"
     },
     {
-    "pokeAPI_id": "Bouffalant",
+    "pokemonName": "Bouffalant",
     "pokeAPI_id": "bouffalant",
     "url": "https://pokeapi.co/api/v2/pokemon/626/"
     },
     {
-    "pokeAPI_id": "Rufflet",
+    "pokemonName": "Rufflet",
     "pokeAPI_id": "rufflet",
     "url": "https://pokeapi.co/api/v2/pokemon/627/"
     },
     {
-    "pokeAPI_id": "Braviary",
+    "pokemonName": "Braviary",
     "pokeAPI_id": "braviary",
     "url": "https://pokeapi.co/api/v2/pokemon/628/"
     },
     {
-    "pokeAPI_id": "Vullaby",
+    "pokemonName": "Vullaby",
     "pokeAPI_id": "vullaby",
     "url": "https://pokeapi.co/api/v2/pokemon/629/"
     },
     {
-    "pokeAPI_id": "Mandibuzz",
+    "pokemonName": "Mandibuzz",
     "pokeAPI_id": "mandibuzz",
     "url": "https://pokeapi.co/api/v2/pokemon/630/"
     },
     {
-    "pokeAPI_id": "Heatmor",
+    "pokemonName": "Heatmor",
     "pokeAPI_id": "heatmor",
     "url": "https://pokeapi.co/api/v2/pokemon/631/"
     },
     {
-    "pokeAPI_id": "Durant",
+    "pokemonName": "Durant",
     "pokeAPI_id": "durant",
     "url": "https://pokeapi.co/api/v2/pokemon/632/"
     },
     {
-    "pokeAPI_id": "Deino",
+    "pokemonName": "Deino",
     "pokeAPI_id": "deino",
     "url": "https://pokeapi.co/api/v2/pokemon/633/"
     },
     {
-    "pokeAPI_id": "Zweilous",
+    "pokemonName": "Zweilous",
     "pokeAPI_id": "zweilous",
     "url": "https://pokeapi.co/api/v2/pokemon/634/"
     },
     {
-    "pokeAPI_id": "Hydreigon",
+    "pokemonName": "Hydreigon",
     "pokeAPI_id": "hydreigon",
     "url": "https://pokeapi.co/api/v2/pokemon/635/"
     },
     {
-    "pokeAPI_id": "Larvesta",
+    "pokemonName": "Larvesta",
     "pokeAPI_id": "larvesta",
     "url": "https://pokeapi.co/api/v2/pokemon/636/"
     },
     {
-    "pokeAPI_id": "Volcarona",
+    "pokemonName": "Volcarona",
     "pokeAPI_id": "volcarona",
     "url": "https://pokeapi.co/api/v2/pokemon/637/"
     },
     {
-    "pokeAPI_id": "Cobalion",
+    "pokemonName": "Cobalion",
     "pokeAPI_id": "cobalion",
     "url": "https://pokeapi.co/api/v2/pokemon/638/"
     },
     {
-    "pokeAPI_id": "Tarrakion",
+    "pokemonName": "Tarrakion",
     "pokeAPI_id": "terrakion",
     "url": "https://pokeapi.co/api/v2/pokemon/639/"
     },
     {
-    "pokeAPI_id": "Virizion",
+    "pokemonName": "Virizion",
     "pokeAPI_id": "virizion",
     "url": "https://pokeapi.co/api/v2/pokemon/640/"
     },
     {
-    "pokeAPI_id": "Tornadus",
+    "pokemonName": "Tornadus",
     "pokeAPI_id": "tornadus-incarnate",
     "url": "https://pokeapi.co/api/v2/pokemon/641/"
     },
     {
-    "pokeAPI_id": "Thundurus",
+    "pokemonName": "Thundurus",
     "pokeAPI_id": "thundurus-incarnate",
     "url": "https://pokeapi.co/api/v2/pokemon/642/"
     },
     {
-    "pokeAPI_id": "Reshiram",
+    "pokemonName": "Reshiram",
     "pokeAPI_id": "reshiram",
     "url": "https://pokeapi.co/api/v2/pokemon/643/"
     },
     {
-    "pokeAPI_id": "Zekrom",
+    "pokemonName": "Zekrom",
     "pokeAPI_id": "zekrom",
     "url": "https://pokeapi.co/api/v2/pokemon/644/"
     },
     {
-    "pokeAPI_id": "Landorus",
+    "pokemonName": "Landorus",
     "pokeAPI_id": "landorus-incarnate",
     "url": "https://pokeapi.co/api/v2/pokemon/645/"
     },
     {
-    "pokeAPI_id": "Kyurem",
+    "pokemonName": "Kyurem",
     "pokeAPI_id": "kyurem",
     "url": "https://pokeapi.co/api/v2/pokemon/646/"
     },
     {
-    "pokeAPI_id": "Keldeo",
+    "pokemonName": "Keldeo",
     "pokeAPI_id": "keldeo-ordinary",
     "url": "https://pokeapi.co/api/v2/pokemon/647/"
     },
     {
-    "pokeAPI_id": "Meloetta",
+    "pokemonName": "Meloetta",
     "pokeAPI_id": "meloetta-aria",
     "url": "https://pokeapi.co/api/v2/pokemon/648/"
     },
     {
-    "pokeAPI_id": "Genesect",
+    "pokemonName": "Genesect",
     "pokeAPI_id": "genesect",
     "url": "https://pokeapi.co/api/v2/pokemon/649/"
     },
     {
-    "pokeAPI_id": "Chespin",
+    "pokemonName": "Chespin",
     "pokeAPI_id": "chespin",
     "url": "https://pokeapi.co/api/v2/pokemon/650/"
     },
     {
-    "pokeAPI_id": "Quilladin",
+    "pokemonName": "Quilladin",
     "pokeAPI_id": "quilladin",
     "url": "https://pokeapi.co/api/v2/pokemon/651/"
     },
     {
-    "pokeAPI_id": "Chesnaught",
+    "pokemonName": "Chesnaught",
     "pokeAPI_id": "chesnaught",
     "url": "https://pokeapi.co/api/v2/pokemon/652/"
     },
     {
-    "pokeAPI_id": "Fennekin",
+    "pokemonName": "Fennekin",
     "pokeAPI_id": "fennekin",
     "url": "https://pokeapi.co/api/v2/pokemon/653/"
     },
     {
-    "pokeAPI_id": "Braixen",
+    "pokemonName": "Braixen",
     "pokeAPI_id": "braixen",
     "url": "https://pokeapi.co/api/v2/pokemon/654/"
     },
     {
-    "pokeAPI_id": "Delphox",
+    "pokemonName": "Delphox",
     "pokeAPI_id": "delphox",
     "url": "https://pokeapi.co/api/v2/pokemon/655/"
     },
     {
-    "pokeAPI_id": "Froakie",
+    "pokemonName": "Froakie",
     "pokeAPI_id": "froakie",
     "url": "https://pokeapi.co/api/v2/pokemon/656/"
     },
     {
-    "pokeAPI_id": "Frogadier",
+    "pokemonName": "Frogadier",
     "pokeAPI_id": "frogadier",
     "url": "https://pokeapi.co/api/v2/pokemon/657/"
     },
     {
-    "pokeAPI_id": "Greninja",
+    "pokemonName": "Greninja",
     "pokeAPI_id": "greninja",
     "url": "https://pokeapi.co/api/v2/pokemon/658/"
     },
     {
-    "pokeAPI_id": "Bunnelby",
+    "pokemonName": "Bunnelby",
     "pokeAPI_id": "bunnelby",
     "url": "https://pokeapi.co/api/v2/pokemon/659/"
     },
     {
-    "pokeAPI_id": "Diggersby",
+    "pokemonName": "Diggersby",
     "pokeAPI_id": "diggersby",
     "url": "https://pokeapi.co/api/v2/pokemon/660/"
     },
     {
-    "pokeAPI_id": "Fletchling",
+    "pokemonName": "Fletchling",
     "pokeAPI_id": "fletchling",
     "url": "https://pokeapi.co/api/v2/pokemon/661/"
     },
     {
-    "pokeAPI_id": "Fletchinder",
+    "pokemonName": "Fletchinder",
     "pokeAPI_id": "fletchinder",
     "url": "https://pokeapi.co/api/v2/pokemon/662/"
     },
     {
-    "pokeAPI_id": "Talonflame",
+    "pokemonName": "Talonflame",
     "pokeAPI_id": "talonflame",
     "url": "https://pokeapi.co/api/v2/pokemon/663/"
     },
     {
-    "pokeAPI_id": "Scatterbug",
+    "pokemonName": "Scatterbug",
     "pokeAPI_id": "scatterbug",
     "url": "https://pokeapi.co/api/v2/pokemon/664/"
     },
     {
-    "pokeAPI_id": "Spewpa",
+    "pokemonName": "Spewpa",
     "pokeAPI_id": "spewpa",
     "url": "https://pokeapi.co/api/v2/pokemon/665/"
     },
     {
-    "pokeAPI_id": "Vivillon",
+    "pokemonName": "Vivillon",
     "pokeAPI_id": "vivillon",
     "url": "https://pokeapi.co/api/v2/pokemon/666/"
     },
     {
-    "pokeAPI_id": "Litleo",
+    "pokemonName": "Litleo",
     "pokeAPI_id": "litleo",
     "url": "https://pokeapi.co/api/v2/pokemon/667/"
     },
     {
-    "pokeAPI_id": "Pyroar",
+    "pokemonName": "Pyroar",
     "pokeAPI_id": "pyroar",
     "url": "https://pokeapi.co/api/v2/pokemon/668/"
     },
     {
-    "pokeAPI_id": "Flabebe",
+    "pokemonName": "Flabebe",
     "pokeAPI_id": "flabebe",
     "url": "https://pokeapi.co/api/v2/pokemon/669/"
     },
     {
-    "pokeAPI_id": "Floette",
+    "pokemonName": "Floette",
     "pokeAPI_id": "floette",
     "url": "https://pokeapi.co/api/v2/pokemon/670/"
     },
     {
-    "pokeAPI_id": "Florges",
+    "pokemonName": "Florges",
     "pokeAPI_id": "florges",
     "url": "https://pokeapi.co/api/v2/pokemon/671/"
     },
     {
-    "pokeAPI_id": "Skiddo",
+    "pokemonName": "Skiddo",
     "pokeAPI_id": "skiddo",
     "url": "https://pokeapi.co/api/v2/pokemon/672/"
     },
     {
-    "pokeAPI_id": "Gogoat",
+    "pokemonName": "Gogoat",
     "pokeAPI_id": "gogoat",
     "url": "https://pokeapi.co/api/v2/pokemon/673/"
     },
     {
-    "pokeAPI_id": "Pancham",
+    "pokemonName": "Pancham",
     "pokeAPI_id": "pancham",
     "url": "https://pokeapi.co/api/v2/pokemon/674/"
     },
     {
-    "pokeAPI_id": "Pangoro",
+    "pokemonName": "Pangoro",
     "pokeAPI_id": "pangoro",
     "url": "https://pokeapi.co/api/v2/pokemon/675/"
     },
     {
-    "pokeAPI_id": "Furfrou",
+    "pokemonName": "Furfrou",
     "pokeAPI_id": "furfrou",
     "url": "https://pokeapi.co/api/v2/pokemon/676/"
     },
     {
-    "pokeAPI_id": "Espurr",
+    "pokemonName": "Espurr",
     "pokeAPI_id": "espurr",
     "url": "https://pokeapi.co/api/v2/pokemon/677/"
     },
     {
-    "pokeAPI_id": "Meowstic",
+    "pokemonName": "Meowstic",
     "pokeAPI_id": "meowstic-male",
     "url": "https://pokeapi.co/api/v2/pokemon/678/"
     },
     {
-    "pokeAPI_id": "Honedge",
+    "pokemonName": "Honedge",
     "pokeAPI_id": "honedge",
     "url": "https://pokeapi.co/api/v2/pokemon/679/"
     },
     {
-    "pokeAPI_id": "Doublade",
+    "pokemonName": "Doublade",
     "pokeAPI_id": "doublade",
     "url": "https://pokeapi.co/api/v2/pokemon/680/"
     },
     {
-    "pokeAPI_id": "Aegislash",
+    "pokemonName": "Aegislash",
     "pokeAPI_id": "aegislash-shield",
     "url": "https://pokeapi.co/api/v2/pokemon/681/"
     },
     {
-    "pokeAPI_id": "Spritzee",
+    "pokemonName": "Spritzee",
     "pokeAPI_id": "spritzee",
     "url": "https://pokeapi.co/api/v2/pokemon/682/"
     },
     {
-    "pokeAPI_id": "Aromatisse",
+    "pokemonName": "Aromatisse",
     "pokeAPI_id": "aromatisse",
     "url": "https://pokeapi.co/api/v2/pokemon/683/"
     },
     {
-    "pokeAPI_id": "Swirlix",
+    "pokemonName": "Swirlix",
     "pokeAPI_id": "swirlix",
     "url": "https://pokeapi.co/api/v2/pokemon/684/"
     },
     {
-    "pokeAPI_id": "Slurpuff",
+    "pokemonName": "Slurpuff",
     "pokeAPI_id": "slurpuff",
     "url": "https://pokeapi.co/api/v2/pokemon/685/"
     },
     {
-    "pokeAPI_id": "Inkay",
+    "pokemonName": "Inkay",
     "pokeAPI_id": "inkay",
     "url": "https://pokeapi.co/api/v2/pokemon/686/"
     },
     {
-    "pokeAPI_id": "Malamar",
+    "pokemonName": "Malamar",
     "pokeAPI_id": "malamar",
     "url": "https://pokeapi.co/api/v2/pokemon/687/"
     },
     {
-    "pokeAPI_id": "Binacle",
+    "pokemonName": "Binacle",
     "pokeAPI_id": "binacle",
     "url": "https://pokeapi.co/api/v2/pokemon/688/"
     },
     {
-    "pokeAPI_id": "Barbaracle",
+    "pokemonName": "Barbaracle",
     "pokeAPI_id": "barbaracle",
     "url": "https://pokeapi.co/api/v2/pokemon/689/"
     },
     {
-    "pokeAPI_id": "Skrelp",
+    "pokemonName": "Skrelp",
     "pokeAPI_id": "skrelp",
     "url": "https://pokeapi.co/api/v2/pokemon/690/"
     },
     {
-    "pokeAPI_id": "Dragalge",
+    "pokemonName": "Dragalge",
     "pokeAPI_id": "dragalge",
     "url": "https://pokeapi.co/api/v2/pokemon/691/"
     },
     {
-    "pokeAPI_id": "Clauncher",
+    "pokemonName": "Clauncher",
     "pokeAPI_id": "clauncher",
     "url": "https://pokeapi.co/api/v2/pokemon/692/"
     },
     {
-    "pokeAPI_id": "Clawitzer",
+    "pokemonName": "Clawitzer",
     "pokeAPI_id": "clawitzer",
     "url": "https://pokeapi.co/api/v2/pokemon/693/"
     },
     {
-    "pokeAPI_id": "Helioptile",
+    "pokemonName": "Helioptile",
     "pokeAPI_id": "helioptile",
     "url": "https://pokeapi.co/api/v2/pokemon/694/"
     },
     {
-    "pokeAPI_id": "Heliolisk",
+    "pokemonName": "Heliolisk",
     "pokeAPI_id": "heliolisk",
     "url": "https://pokeapi.co/api/v2/pokemon/695/"
     },
     {
-    "pokeAPI_id": "Tyrunt",
+    "pokemonName": "Tyrunt",
     "pokeAPI_id": "tyrunt",
     "url": "https://pokeapi.co/api/v2/pokemon/696/"
     },
     {
-    "pokeAPI_id": "Tyrantrum",
+    "pokemonName": "Tyrantrum",
     "pokeAPI_id": "tyrantrum",
     "url": "https://pokeapi.co/api/v2/pokemon/697/"
     },
     {
-    "pokeAPI_id": "Amaura",
+    "pokemonName": "Amaura",
     "pokeAPI_id": "amaura",
     "url": "https://pokeapi.co/api/v2/pokemon/698/"
     },
     {
-    "pokeAPI_id": "Aurorus",
+    "pokemonName": "Aurorus",
     "pokeAPI_id": "aurorus",
     "url": "https://pokeapi.co/api/v2/pokemon/699/"
     },
     {
-    "pokeAPI_id": "Sylveon",
+    "pokemonName": "Sylveon",
     "pokeAPI_id": "sylveon",
     "url": "https://pokeapi.co/api/v2/pokemon/700/"
     },
     {
-    "pokeAPI_id": "Hawlucha",
+    "pokemonName": "Hawlucha",
     "pokeAPI_id": "hawlucha",
     "url": "https://pokeapi.co/api/v2/pokemon/701/"
     },
     {
-    "pokeAPI_id": "Dedenne",
+    "pokemonName": "Dedenne",
     "pokeAPI_id": "dedenne",
     "url": "https://pokeapi.co/api/v2/pokemon/702/"
     },
     {
-    "pokeAPI_id": "Cabrink",
+    "pokemonName": "Cabrink",
     "pokeAPI_id": "carbink",
     "url": "https://pokeapi.co/api/v2/pokemon/703/"
     },
     {
-    "pokeAPI_id": "Goomy",
+    "pokemonName": "Goomy",
     "pokeAPI_id": "goomy",
     "url": "https://pokeapi.co/api/v2/pokemon/704/"
     },
     {
-    "pokeAPI_id": "Sliggoo",
+    "pokemonName": "Sliggoo",
     "pokeAPI_id": "sliggoo",
     "url": "https://pokeapi.co/api/v2/pokemon/705/"
     },
     {
-    "pokeAPI_id": "Goodra",
+    "pokemonName": "Goodra",
     "pokeAPI_id": "goodra",
     "url": "https://pokeapi.co/api/v2/pokemon/706/"
     },
     {
-    "pokeAPI_id": "Klefki",
+    "pokemonName": "Klefki",
     "pokeAPI_id": "klefki",
     "url": "https://pokeapi.co/api/v2/pokemon/707/"
     },
     {
-    "pokeAPI_id": "Phantump",
+    "pokemonName": "Phantump",
     "pokeAPI_id": "phantump",
     "url": "https://pokeapi.co/api/v2/pokemon/708/"
     },
     {
-    "pokeAPI_id": "Trevenant",
+    "pokemonName": "Trevenant",
     "pokeAPI_id": "trevenant",
     "url": "https://pokeapi.co/api/v2/pokemon/709/"
     },
     {
-    "pokeAPI_id": "Pumkaboo",
+    "pokemonName": "Pumkaboo",
     "pokeAPI_id": "pumpkaboo-average",
     "url": "https://pokeapi.co/api/v2/pokemon/710/"
     },
     {
-    "pokeAPI_id": "Gourgeist",
+    "pokemonName": "Gourgeist",
     "pokeAPI_id": "gourgeist-average",
     "url": "https://pokeapi.co/api/v2/pokemon/711/"
     },
     {
-    "pokeAPI_id": "Bergmite",
+    "pokemonName": "Bergmite",
     "pokeAPI_id": "bergmite",
     "url": "https://pokeapi.co/api/v2/pokemon/712/"
     },
     {
-    "pokeAPI_id": "Avalugg",
+    "pokemonName": "Avalugg",
     "pokeAPI_id": "avalugg",
     "url": "https://pokeapi.co/api/v2/pokemon/713/"
     },
     {
-    "pokeAPI_id": "Noibat",
+    "pokemonName": "Noibat",
     "pokeAPI_id": "noibat",
     "url": "https://pokeapi.co/api/v2/pokemon/714/"
     },
     {
-    "pokeAPI_id": "Noivern",
+    "pokemonName": "Noivern",
     "pokeAPI_id": "noivern",
     "url": "https://pokeapi.co/api/v2/pokemon/715/"
     },
     {
-    "pokeAPI_id": "Xerneas",
+    "pokemonName": "Xerneas",
     "pokeAPI_id": "xerneas",
     "url": "https://pokeapi.co/api/v2/pokemon/716/"
     },
     {
-    "pokeAPI_id": "Yveltal",
+    "pokemonName": "Yveltal",
     "pokeAPI_id": "yveltal",
     "url": "https://pokeapi.co/api/v2/pokemon/717/"
     },
     {
-    "pokeAPI_id": "Zygarde",
+    "pokemonName": "Zygarde",
     "pokeAPI_id": "zygarde",
     "url": "https://pokeapi.co/api/v2/pokemon/718/"
     },
     {
-    "pokeAPI_id": "Diancie",
+    "pokemonName": "Diancie",
     "pokeAPI_id": "diancie",
     "url": "https://pokeapi.co/api/v2/pokemon/719/"
     },
     {
-    "pokeAPI_id": "Hoopa",
+    "pokemonName": "Hoopa",
     "pokeAPI_id": "hoopa",
     "url": "https://pokeapi.co/api/v2/pokemon/720/"
     },
     {
-    "pokeAPI_id": "Volcanion",
+    "pokemonName": "Volcanion",
     "pokeAPI_id": "volcanion",
     "url": "https://pokeapi.co/api/v2/pokemon/721/"
     },
     {
-    "pokeAPI_id": "Rowlet",
+    "pokemonName": "Rowlet",
     "pokeAPI_id": "rowlet",
     "url": "https://pokeapi.co/api/v2/pokemon/722/"
     },
     {
+    "pokemonName": "Dartrix",
     "pokeAPI_id": "dartrix",
     "url": "https://pokeapi.co/api/v2/pokemon/723/"
     },
     {
+    "pokemonName": "Decidueye",
     "pokeAPI_id": "decidueye",
     "url": "https://pokeapi.co/api/v2/pokemon/724/"
     },
     {
+    "pokemonName": "Litten",
     "pokeAPI_id": "litten",
     "url": "https://pokeapi.co/api/v2/pokemon/725/"
     },
     {
+    "pokemonName": "Torracat",
     "pokeAPI_id": "torracat",
     "url": "https://pokeapi.co/api/v2/pokemon/726/"
     },
     {
+    "pokemonName": "Inineroar",
     "pokeAPI_id": "incineroar",
     "url": "https://pokeapi.co/api/v2/pokemon/727/"
     },
     {
+    "pokemonName": "Popplio",
     "pokeAPI_id": "popplio",
     "url": "https://pokeapi.co/api/v2/pokemon/728/"
     },
     {
+    "pokemonName": "Brionne",
     "pokeAPI_id": "brionne",
     "url": "https://pokeapi.co/api/v2/pokemon/729/"
     },
     {
+    "pokemonName": "Primarina",
     "pokeAPI_id": "primarina",
     "url": "https://pokeapi.co/api/v2/pokemon/730/"
     },
     {
+    "pokemonName": "Pikipek",
     "pokeAPI_id": "pikipek",
     "url": "https://pokeapi.co/api/v2/pokemon/731/"
     },
     {
+    "pokemonName": "Trumbeak",
     "pokeAPI_id": "trumbeak",
     "url": "https://pokeapi.co/api/v2/pokemon/732/"
     },
     {
+    "pokemonName": "Toucannon",
     "pokeAPI_id": "toucannon",
     "url": "https://pokeapi.co/api/v2/pokemon/733/"
     },
     {
+    "pokemonName": "Yungoos",
     "pokeAPI_id": "yungoos",
     "url": "https://pokeapi.co/api/v2/pokemon/734/"
     },
     {
+    "pokemonName": "Gumshoos",
     "pokeAPI_id": "gumshoos",
     "url": "https://pokeapi.co/api/v2/pokemon/735/"
     },
     {
+    "pokemonName": "Grubbin",
     "pokeAPI_id": "grubbin",
     "url": "https://pokeapi.co/api/v2/pokemon/736/"
     },
     {
+    "pokemonName": "Charjabug",
     "pokeAPI_id": "charjabug",
     "url": "https://pokeapi.co/api/v2/pokemon/737/"
     },
     {
+    "pokemonName": "Vikavolt",
     "pokeAPI_id": "vikavolt",
     "url": "https://pokeapi.co/api/v2/pokemon/738/"
     },
     {
+    "pokemonName": "Crabrawler",
     "pokeAPI_id": "crabrawler",
     "url": "https://pokeapi.co/api/v2/pokemon/739/"
     },
     {
+    "pokemonName": "Crabominable`",
     "pokeAPI_id": "crabominable",
     "url": "https://pokeapi.co/api/v2/pokemon/740/"
     },
     {
+    "pokemonName": "Oricorio",
     "pokeAPI_id": "oricorio-baile",
     "url": "https://pokeapi.co/api/v2/pokemon/741/"
     },
     {
+    "pokemonName": "Cutiefly",
     "pokeAPI_id": "cutiefly",
     "url": "https://pokeapi.co/api/v2/pokemon/742/"
     },
     {
+    "pokemonName": "Ribombee",
     "pokeAPI_id": "ribombee",
     "url": "https://pokeapi.co/api/v2/pokemon/743/"
     },
     {
+    "pokemonName": "Rockruff",
     "pokeAPI_id": "rockruff",
     "url": "https://pokeapi.co/api/v2/pokemon/744/"
     },
     {
+    "pokemonName": "Lycanroc",
     "pokeAPI_id": "lycanroc-midday",
     "url": "https://pokeapi.co/api/v2/pokemon/745/"
     },
     {
+    "pokemonName": "Wishiwashi",
     "pokeAPI_id": "wishiwashi-solo",
     "url": "https://pokeapi.co/api/v2/pokemon/746/"
     },
     {
+    "pokemonName": "Mareanie",
     "pokeAPI_id": "mareanie",
     "url": "https://pokeapi.co/api/v2/pokemon/747/"
     },
     {
+    "pokemonName": "Toxapex",
     "pokeAPI_id": "toxapex",
     "url": "https://pokeapi.co/api/v2/pokemon/748/"
     },
     {
+    "pokemonName": "Mudbray",
     "pokeAPI_id": "mudbray",
     "url": "https://pokeapi.co/api/v2/pokemon/749/"
     },
     {
+    "pokemonName": "Mudsdale",
     "pokeAPI_id": "mudsdale",
     "url": "https://pokeapi.co/api/v2/pokemon/750/"
     },
     {
+    "pokemonName": "Dewpider",
     "pokeAPI_id": "dewpider",
     "url": "https://pokeapi.co/api/v2/pokemon/751/"
     },
     {
+    "pokemonName": "Araquanid",
     "pokeAPI_id": "araquanid",
     "url": "https://pokeapi.co/api/v2/pokemon/752/"
     },
     {
+    "pokemonName": "Fomantis",
     "pokeAPI_id": "fomantis",
     "url": "https://pokeapi.co/api/v2/pokemon/753/"
     },
     {
+    "pokemonName": "Lurantis",
     "pokeAPI_id": "lurantis",
     "url": "https://pokeapi.co/api/v2/pokemon/754/"
     },
     {
+    "pokemonName": "Morelull",
     "pokeAPI_id": "morelull",
     "url": "https://pokeapi.co/api/v2/pokemon/755/"
     },
     {
+    "pokemonName": "Shiinotic",
     "pokeAPI_id": "shiinotic",
     "url": "https://pokeapi.co/api/v2/pokemon/756/"
     },
     {
+    "pokemonName": "Salandit",
     "pokeAPI_id": "salandit",
     "url": "https://pokeapi.co/api/v2/pokemon/757/"
     },
     {
+    "pokemonName": "Salazzle",
     "pokeAPI_id": "salazzle",
     "url": "https://pokeapi.co/api/v2/pokemon/758/"
     },
     {
+    "pokemonName": "Stufful",
     "pokeAPI_id": "stufful",
     "url": "https://pokeapi.co/api/v2/pokemon/759/"
     },
     {
+    "pokemonName": "Bewear",
     "pokeAPI_id": "bewear",
     "url": "https://pokeapi.co/api/v2/pokemon/760/"
     },
     {
+    "pokemonName": "Bounsweet",
     "pokeAPI_id": "bounsweet",
     "url": "https://pokeapi.co/api/v2/pokemon/761/"
     },
     {
+    "pokemonName": "Steenee",
     "pokeAPI_id": "steenee",
     "url": "https://pokeapi.co/api/v2/pokemon/762/"
     },
     {
+    "pokemonName": "Tsareena",
     "pokeAPI_id": "tsareena",
     "url": "https://pokeapi.co/api/v2/pokemon/763/"
     },
     {
+    "pokemonName": "Comfey",
     "pokeAPI_id": "comfey",
     "url": "https://pokeapi.co/api/v2/pokemon/764/"
     },
     {
+    "pokemonName": "Oranguru",
     "pokeAPI_id": "oranguru",
     "url": "https://pokeapi.co/api/v2/pokemon/765/"
     },
     {
+    "pokemonName": "Passimian",
     "pokeAPI_id": "passimian",
     "url": "https://pokeapi.co/api/v2/pokemon/766/"
     },
     {
+    "pokemonName": "Wimpod",
     "pokeAPI_id": "wimpod",
     "url": "https://pokeapi.co/api/v2/pokemon/767/"
     },
     {
+    "pokemonName": "Galisopod",
     "pokeAPI_id": "golisopod",
     "url": "https://pokeapi.co/api/v2/pokemon/768/"
     },
     {
+    "pokemonName": "Sandygast",
     "pokeAPI_id": "sandygast",
     "url": "https://pokeapi.co/api/v2/pokemon/769/"
     },
     {
+    "pokemonName": "Palossand",
     "pokeAPI_id": "palossand",
     "url": "https://pokeapi.co/api/v2/pokemon/770/"
     },
     {
+    "pokemonName": "Pyukumuku",
     "pokeAPI_id": "pyukumuku",
     "url": "https://pokeapi.co/api/v2/pokemon/771/"
     },
     {
+    "pokemonName": "Type-Null",
     "pokeAPI_id": "type-null",
     "url": "https://pokeapi.co/api/v2/pokemon/772/"
     },
     {
+    "pokemonName": "Silvally",
     "pokeAPI_id": "silvally",
     "url": "https://pokeapi.co/api/v2/pokemon/773/"
     },
     {
+    "pokemonName": "Minor",
     "pokeAPI_id": "minior-red-meteor",
     "url": "https://pokeapi.co/api/v2/pokemon/774/"
     },
     {
+    "pokemonName": "Komala",
     "pokeAPI_id": "komala",
     "url": "https://pokeapi.co/api/v2/pokemon/775/"
     },
     {
+    "pokemonName": "Turtonator",
     "pokeAPI_id": "turtonator",
     "url": "https://pokeapi.co/api/v2/pokemon/776/"
     },
     {
+    "pokemonName": "Togedemaru",
     "pokeAPI_id": "togedemaru",
     "url": "https://pokeapi.co/api/v2/pokemon/777/"
     },
     {
+    "pokemonName": "Mimikyu",
     "pokeAPI_id": "mimikyu-disguised",
     "url": "https://pokeapi.co/api/v2/pokemon/778/"
     },
     {
+    "pokemonName": "Bruxish",
     "pokeAPI_id": "bruxish",
     "url": "https://pokeapi.co/api/v2/pokemon/779/"
     },
     {
+    "pokemonName": "Drampa",
     "pokeAPI_id": "drampa",
     "url": "https://pokeapi.co/api/v2/pokemon/780/"
     },
     {
+    "pokemonName": "Dhelmise",
     "pokeAPI_id": "dhelmise",
     "url": "https://pokeapi.co/api/v2/pokemon/781/"
     },
     {
+    "pokemonName": "Jangmo-o",
     "pokeAPI_id": "jangmo-o",
     "url": "https://pokeapi.co/api/v2/pokemon/782/"
     },
     {
+    "pokemonName": "Hakamo-o",
     "pokeAPI_id": "hakamo-o",
     "url": "https://pokeapi.co/api/v2/pokemon/783/"
     },
     {
+    "pokemonName": "Kommo-o",
     "pokeAPI_id": "kommo-o",
     "url": "https://pokeapi.co/api/v2/pokemon/784/"
     },
     {
+    "pokemonName": "Tapu-Koko",
     "pokeAPI_id": "tapu-koko",
     "url": "https://pokeapi.co/api/v2/pokemon/785/"
     },
     {
+    "pokemonName": "Tapu-Lele",
     "pokeAPI_id": "tapu-lele",
     "url": "https://pokeapi.co/api/v2/pokemon/786/"
     },
     {
+    "pokemonName": "Tapu-Bulu",
     "pokeAPI_id": "tapu-bulu",
     "url": "https://pokeapi.co/api/v2/pokemon/787/"
     },
     {
+    "pokemonName": "Tapu-Fini",
     "pokeAPI_id": "tapu-fini",
     "url": "https://pokeapi.co/api/v2/pokemon/788/"
     },
     {
+    "pokemonName": "Cosmog",
     "pokeAPI_id": "cosmog",
     "url": "https://pokeapi.co/api/v2/pokemon/789/"
     },
     {
+    "pokemonName": "Cosmoem",
     "pokeAPI_id": "cosmoem",
     "url": "https://pokeapi.co/api/v2/pokemon/790/"
     },
     {
+    "pokemonName": "Solgaleo",
     "pokeAPI_id": "solgaleo",
     "url": "https://pokeapi.co/api/v2/pokemon/791/"
     },
     {
+    "pokemonName": "Lunala",
     "pokeAPI_id": "lunala",
     "url": "https://pokeapi.co/api/v2/pokemon/792/"
     },
     {
+    "pokemonName": "Nigilego",
     "pokeAPI_id": "nihilego",
     "url": "https://pokeapi.co/api/v2/pokemon/793/"
     },
     {
+    "pokemonName": "Buzzwole",
     "pokeAPI_id": "buzzwole",
     "url": "https://pokeapi.co/api/v2/pokemon/794/"
     },
     {
+    "pokemonName": "Pheromosa",
     "pokeAPI_id": "pheromosa",
     "url": "https://pokeapi.co/api/v2/pokemon/795/"
     },
     {
+    "pokemonName": "Xurkitree",
     "pokeAPI_id": "xurkitree",
     "url": "https://pokeapi.co/api/v2/pokemon/796/"
     },
     {
+    "pokemonName": "Celesteela",
     "pokeAPI_id": "celesteela",
     "url": "https://pokeapi.co/api/v2/pokemon/797/"
     },
     {
+    "pokemonName": "Kartana",
     "pokeAPI_id": "kartana",
     "url": "https://pokeapi.co/api/v2/pokemon/798/"
     },
     {
+    "pokemonName": "Guzzlord",
     "pokeAPI_id": "guzzlord",
     "url": "https://pokeapi.co/api/v2/pokemon/799/"
     },
     {
+    "pokemonName": "Necrozma",
     "pokeAPI_id": "necrozma",
     "url": "https://pokeapi.co/api/v2/pokemon/800/"
     },
     {
+    "pokemonName": "Magerna",
     "pokeAPI_id": "magearna",
     "url": "https://pokeapi.co/api/v2/pokemon/801/"
     },
     {
+    "pokemonName": "Marshadow",
     "pokeAPI_id": "marshadow",
     "url": "https://pokeapi.co/api/v2/pokemon/802/"
     },
     {
+    "pokemonName": "Poipole",
     "pokeAPI_id": "poipole",
     "url": "https://pokeapi.co/api/v2/pokemon/803/"
     },
     {
+    "pokemonName": "Naganadel",
     "pokeAPI_id": "naganadel",
     "url": "https://pokeapi.co/api/v2/pokemon/804/"
     },
     {
+    "pokemonName": "Stakataka",
     "pokeAPI_id": "stakataka",
     "url": "https://pokeapi.co/api/v2/pokemon/805/"
     },
     {
+    "pokemonName": "Blacephalon",
     "pokeAPI_id": "blacephalon",
     "url": "https://pokeapi.co/api/v2/pokemon/806/"
     },
     {
+    "pokemonName": "Zeraora",
     "pokeAPI_id": "zeraora",
     "url": "https://pokeapi.co/api/v2/pokemon/807/"
     },
     {
+    "pokemonName": "Meltan",
     "pokeAPI_id": "meltan",
     "url": "https://pokeapi.co/api/v2/pokemon/808/"
     },
     {
+    "pokemonName": "Melmetal",
     "pokeAPI_id": "melmetal",
     "url": "https://pokeapi.co/api/v2/pokemon/809/"
     },
     {
+    "pokemonName": "Grooky",
     "pokeAPI_id": "grookey",
     "url": "https://pokeapi.co/api/v2/pokemon/810/"
     },
     {
+    "pokemonName": "Thwackey",
     "pokeAPI_id": "thwackey",
     "url": "https://pokeapi.co/api/v2/pokemon/811/"
     },
     {
+    "pokemonName": "Rillaboom",
     "pokeAPI_id": "rillaboom",
     "url": "https://pokeapi.co/api/v2/pokemon/812/"
     },
     {
+    "pokemonName": "Scorbunny",
     "pokeAPI_id": "scorbunny",
     "url": "https://pokeapi.co/api/v2/pokemon/813/"
     },
     {
+    "pokemonName": "Raboot",
     "pokeAPI_id": "raboot",
     "url": "https://pokeapi.co/api/v2/pokemon/814/"
     },
     {
+    "pokemonName": "Cinderace",
     "pokeAPI_id": "cinderace",
     "url": "https://pokeapi.co/api/v2/pokemon/815/"
     },
     {
+    "pokemonName": "Sobble",
     "pokeAPI_id": "sobble",
     "url": "https://pokeapi.co/api/v2/pokemon/816/"
     },
     {
+    "pokemonName": "Drizzile",
     "pokeAPI_id": "drizzile",
     "url": "https://pokeapi.co/api/v2/pokemon/817/"
     },
     {
+    "pokemonName": "Inteleon",
     "pokeAPI_id": "inteleon",
     "url": "https://pokeapi.co/api/v2/pokemon/818/"
     },
     {
+    "pokemonName": "Skwovet",
     "pokeAPI_id": "skwovet",
     "url": "https://pokeapi.co/api/v2/pokemon/819/"
     },
     {
+    "pokemonName": "Greedent",
     "pokeAPI_id": "greedent",
     "url": "https://pokeapi.co/api/v2/pokemon/820/"
     },
     {
+    "pokemonName": "Rookidee",
     "pokeAPI_id": "rookidee",
     "url": "https://pokeapi.co/api/v2/pokemon/821/"
     },
     {
+    "pokemonName": "Corvisquire",
     "pokeAPI_id": "corvisquire",
     "url": "https://pokeapi.co/api/v2/pokemon/822/"
     },
     {
+    "pokemonName": "Corviknight",
     "pokeAPI_id": "corviknight",
     "url": "https://pokeapi.co/api/v2/pokemon/823/"
     },
     {
+    "pokemonName": "Blipbug",
     "pokeAPI_id": "blipbug",
     "url": "https://pokeapi.co/api/v2/pokemon/824/"
     },
     {
+    "pokemonName": "Dottler",
     "pokeAPI_id": "dottler",
     "url": "https://pokeapi.co/api/v2/pokemon/825/"
     },
     {
+    "pokemonName": "Orbeetle",
     "pokeAPI_id": "orbeetle",
     "url": "https://pokeapi.co/api/v2/pokemon/826/"
     },
     {
+    "pokemonName": "Nickit",
     "pokeAPI_id": "nickit",
     "url": "https://pokeapi.co/api/v2/pokemon/827/"
     },
     {
+    "pokemonName": "Thievul",
     "pokeAPI_id": "thievul",
     "url": "https://pokeapi.co/api/v2/pokemon/828/"
     },
     {
+    "pokemonName": "Gossifleur",
     "pokeAPI_id": "gossifleur",
     "url": "https://pokeapi.co/api/v2/pokemon/829/"
     },
     {
+    "pokemonName": "Eldegoss",
     "pokeAPI_id": "eldegoss",
     "url": "https://pokeapi.co/api/v2/pokemon/830/"
     },
     {
+    "pokemonName": "Wooloo",
     "pokeAPI_id": "wooloo",
     "url": "https://pokeapi.co/api/v2/pokemon/831/"
     },
     {
+    "pokemonName": "Dubwool",
     "pokeAPI_id": "dubwool",
     "url": "https://pokeapi.co/api/v2/pokemon/832/"
     },
     {
+    "pokemonName": "Chewtle",
     "pokeAPI_id": "chewtle",
     "url": "https://pokeapi.co/api/v2/pokemon/833/"
     },
     {
+    "pokemonName": "Drednaw",
     "pokeAPI_id": "drednaw",
     "url": "https://pokeapi.co/api/v2/pokemon/834/"
     },
     {
+    "pokemonName": "Yamper",
     "pokeAPI_id": "yamper",
     "url": "https://pokeapi.co/api/v2/pokemon/835/"
     },
     {
+    "pokemonName": "Boltund",
     "pokeAPI_id": "boltund",
     "url": "https://pokeapi.co/api/v2/pokemon/836/"
     },
     {
+    "pokemonName": "Rolycoly",
     "pokeAPI_id": "rolycoly",
     "url": "https://pokeapi.co/api/v2/pokemon/837/"
     },
     {
+    "pokemonName": "Carkol",
     "pokeAPI_id": "carkol",
     "url": "https://pokeapi.co/api/v2/pokemon/838/"
     },
     {
+    "pokemonName": "Coalossal",
     "pokeAPI_id": "coalossal",
     "url": "https://pokeapi.co/api/v2/pokemon/839/"
     },
     {
+    "pokemonName": "Applin",
     "pokeAPI_id": "applin",
     "url": "https://pokeapi.co/api/v2/pokemon/840/"
     },
     {
+    "pokemonName": "Flapple",
     "pokeAPI_id": "flapple",
     "url": "https://pokeapi.co/api/v2/pokemon/841/"
     },
     {
+    "pokemonName": "Appletun",
     "pokeAPI_id": "appletun",
     "url": "https://pokeapi.co/api/v2/pokemon/842/"
     },
     {
+    "pokemonName": "Silicobra",
     "pokeAPI_id": "silicobra",
     "url": "https://pokeapi.co/api/v2/pokemon/843/"
     },
     {
+    "pokemonName": "Sandaconda",
     "pokeAPI_id": "sandaconda",
     "url": "https://pokeapi.co/api/v2/pokemon/844/"
     },
     {
+    "pokemonName": "Cramorant",
     "pokeAPI_id": "cramorant",
     "url": "https://pokeapi.co/api/v2/pokemon/845/"
     },
     {
+    "pokemonName": "Arrokunda",
     "pokeAPI_id": "arrokuda",
     "url": "https://pokeapi.co/api/v2/pokemon/846/"
     },
     {
+    "pokemonName": "Barraskewda",
     "pokeAPI_id": "barraskewda",
     "url": "https://pokeapi.co/api/v2/pokemon/847/"
     },
     {
+    "pokemonName": "Toxel",
     "pokeAPI_id": "toxel",
     "url": "https://pokeapi.co/api/v2/pokemon/848/"
     },
     {
+    "pokemonName": "Toxtricity",
     "pokeAPI_id": "toxtricity-amped",
     "url": "https://pokeapi.co/api/v2/pokemon/849/"
     },
     {
+    "pokemonName": "Sizzlipede",
     "pokeAPI_id": "sizzlipede",
     "url": "https://pokeapi.co/api/v2/pokemon/850/"
     },
     {
+    "pokemonName": "Centiskorch",
     "pokeAPI_id": "centiskorch",
     "url": "https://pokeapi.co/api/v2/pokemon/851/"
     },
     {
+    "pokemonName": "Clobbopus",
     "pokeAPI_id": "clobbopus",
     "url": "https://pokeapi.co/api/v2/pokemon/852/"
     },
     {
+    "pokemonName": "Grapploct",
     "pokeAPI_id": "grapploct",
     "url": "https://pokeapi.co/api/v2/pokemon/853/"
     },
     {
+    "pokemonName": "Sinistea",
     "pokeAPI_id": "sinistea",
     "url": "https://pokeapi.co/api/v2/pokemon/854/"
     },
     {
+    "pokemonName": "Polteageist",
     "pokeAPI_id": "polteageist",
     "url": "https://pokeapi.co/api/v2/pokemon/855/"
     },
     {
+    "pokemonName": "Hatenna",
     "pokeAPI_id": "hatenna",
     "url": "https://pokeapi.co/api/v2/pokemon/856/"
     },
     {
+    "pokemonName": "Hattrem",
     "pokeAPI_id": "hattrem",
     "url": "https://pokeapi.co/api/v2/pokemon/857/"
     },
     {
+    "pokemonName": "Hatterene",
     "pokeAPI_id": "hatterene",
     "url": "https://pokeapi.co/api/v2/pokemon/858/"
     },
     {
+    "pokemonName": "Impidimp",
     "pokeAPI_id": "impidimp",
     "url": "https://pokeapi.co/api/v2/pokemon/859/"
     },
     {
+    "pokemonName": "Morgrem",
     "pokeAPI_id": "morgrem",
     "url": "https://pokeapi.co/api/v2/pokemon/860/"
     },
     {
+    "pokemonName": "Grimmsnarl",
     "pokeAPI_id": "grimmsnarl",
     "url": "https://pokeapi.co/api/v2/pokemon/861/"
     },
     {
+    "pokemonName": "Obstagoon",
     "pokeAPI_id": "obstagoon",
     "url": "https://pokeapi.co/api/v2/pokemon/862/"
     },
     {
+    "pokemonName": "Perrserker",
     "pokeAPI_id": "perrserker",
     "url": "https://pokeapi.co/api/v2/pokemon/863/"
     },
     {
+    "pokemonName": "Cursola",
     "pokeAPI_id": "cursola",
     "url": "https://pokeapi.co/api/v2/pokemon/864/"
     },
     {
+    "pokemonName": "Sirfetchd",
     "pokeAPI_id": "sirfetchd",
     "url": "https://pokeapi.co/api/v2/pokemon/865/"
     },
     {
+    "pokemonName": "Mr-Rime",
     "pokeAPI_id": "mr-rime",
     "url": "https://pokeapi.co/api/v2/pokemon/866/"
     },
     {
+    "pokemonName": "Runerigus",
     "pokeAPI_id": "runerigus",
     "url": "https://pokeapi.co/api/v2/pokemon/867/"
     },
     {
+    "pokemonName": "Milcery",
     "pokeAPI_id": "milcery",
     "url": "https://pokeapi.co/api/v2/pokemon/868/"
     },
     {
+    "pokemonName": "Alcremie",
     "pokeAPI_id": "alcremie",
     "url": "https://pokeapi.co/api/v2/pokemon/869/"
     },
     {
+    "pokemonName": "Falinks",
     "pokeAPI_id": "falinks",
     "url": "https://pokeapi.co/api/v2/pokemon/870/"
     },
     {
+    "pokemonName": "Pincurchin",
     "pokeAPI_id": "pincurchin",
     "url": "https://pokeapi.co/api/v2/pokemon/871/"
     },
     {
+    "pokemonName": "Snom",
     "pokeAPI_id": "snom",
     "url": "https://pokeapi.co/api/v2/pokemon/872/"
     },
     {
+    "pokemonName": "Frosmoth",
     "pokeAPI_id": "frosmoth",
     "url": "https://pokeapi.co/api/v2/pokemon/873/"
     },
     {
+    "pokemonName": "Stonjourner",
     "pokeAPI_id": "stonjourner",
     "url": "https://pokeapi.co/api/v2/pokemon/874/"
     },
     {
+    "pokemonName": "Eiscue",
     "pokeAPI_id": "eiscue-ice",
     "url": "https://pokeapi.co/api/v2/pokemon/875/"
     },
     {
+    "pokemonName": "Indeedee",
     "pokeAPI_id": "indeedee-male",
     "url": "https://pokeapi.co/api/v2/pokemon/876/"
     },
     {
+    "pokemonName": "Morpeko",
     "pokeAPI_id": "morpeko",
     "url": "https://pokeapi.co/api/v2/pokemon/877/"
     },
     {
+    "pokemonName": "Cufant",
     "pokeAPI_id": "cufant",
     "url": "https://pokeapi.co/api/v2/pokemon/878/"
     },
     {
+    "pokemonName": "Copperajah",
     "pokeAPI_id": "copperajah",
     "url": "https://pokeapi.co/api/v2/pokemon/879/"
     },
     {
+    "pokemonName": "dracozolt",
     "pokeAPI_id": "dracozolt",
     "url": "https://pokeapi.co/api/v2/pokemon/880/"
     },
     {
+    "pokemonName": "Arctozolt",
     "pokeAPI_id": "arctozolt",
     "url": "https://pokeapi.co/api/v2/pokemon/881/"
     },
     {
+    "pokemonName": "Dracovish",
     "pokeAPI_id": "dracovish",
     "url": "https://pokeapi.co/api/v2/pokemon/882/"
     },
     {
+    "pokemonName": "Arctovish",
     "pokeAPI_id": "arctovish",
     "url": "https://pokeapi.co/api/v2/pokemon/883/"
     },
     {
+    "pokemonName": "Duraludon",
     "pokeAPI_id": "duraludon",
     "url": "https://pokeapi.co/api/v2/pokemon/884/"
     },
     {
+    "pokemonName": "Dreepy",
     "pokeAPI_id": "dreepy",
     "url": "https://pokeapi.co/api/v2/pokemon/885/"
     },
     {
+    "pokemonName": "Drakloak",
     "pokeAPI_id": "drakloak",
     "url": "https://pokeapi.co/api/v2/pokemon/886/"
     },
     {
+    "pokemonName": "Dragapult",
     "pokeAPI_id": "dragapult",
     "url": "https://pokeapi.co/api/v2/pokemon/887/"
     },
     {
+    "pokemonName": "Zacian",
     "pokeAPI_id": "zacian-hero",
     "url": "https://pokeapi.co/api/v2/pokemon/888/"
     },
     {
+    "pokemonName": "Zamazenta",
     "pokeAPI_id": "zamazenta-hero",
     "url": "https://pokeapi.co/api/v2/pokemon/889/"
     },
     {
+    "pokemonName": "Eternatus",
     "pokeAPI_id": "eternatus",
     "url": "https://pokeapi.co/api/v2/pokemon/890/"
     },
     {
+    "pokemonName": "Kubfu",
     "pokeAPI_id": "kubfu",
     "url": "https://pokeapi.co/api/v2/pokemon/891/"
     },
     {
+    "pokemonName": "Urshifu-Single Strike",
     "pokeAPI_id": "urshifu-single-strike",
     "url": "https://pokeapi.co/api/v2/pokemon/892/"
     },
     {
+    "pokemonName": "Zarude",
     "pokeAPI_id": "zarude",
     "url": "https://pokeapi.co/api/v2/pokemon/893/"
     },
     {
+    "pokemonName": "Regieleki",
     "pokeAPI_id": "regieleki",
     "url": "https://pokeapi.co/api/v2/pokemon/894/"
     },
     {
+    "pokemonName": "Regidrago",
     "pokeAPI_id": "regidrago",
     "url": "https://pokeapi.co/api/v2/pokemon/895/"
     },
     {
+    "pokemonName": "Glastrier",
     "pokeAPI_id": "glastrier",
     "url": "https://pokeapi.co/api/v2/pokemon/896/"
     },
     {
+    "pokemonName": "Spectrier",
     "pokeAPI_id": "spectrier",
     "url": "https://pokeapi.co/api/v2/pokemon/897/"
     },
     {
+    "pokemonName": "Calyrex",
     "pokeAPI_id": "calyrex",
     "url": "https://pokeapi.co/api/v2/pokemon/898/"
     },
     {
-    "pokeAPI_id": "deoxys-attack",
-    "url": "https://pokeapi.co/api/v2/pokemon/10001/"
-    },
-    {
-    "pokeAPI_id": "deoxys-defense",
-    "url": "https://pokeapi.co/api/v2/pokemon/10002/"
-    },
-    {
-    "pokeAPI_id": "deoxys-speed",
-    "url": "https://pokeapi.co/api/v2/pokemon/10003/"
-    },
-    {
-    "pokeAPI_id": "wormadam-sandy",
-    "url": "https://pokeapi.co/api/v2/pokemon/10004/"
-    },
-    {
-    "pokeAPI_id": "wormadam-trash",
-    "url": "https://pokeapi.co/api/v2/pokemon/10005/"
-    },
-    {
-    "pokeAPI_id": "shaymin-sky",
-    "url": "https://pokeapi.co/api/v2/pokemon/10006/"
-    },
-    {
-    "pokeAPI_id": "giratina-origin",
-    "url": "https://pokeapi.co/api/v2/pokemon/10007/"
-    },
-    {
+    "pokemonName": "Rotom Heat",
     "pokeAPI_id": "rotom-heat",
     "url": "https://pokeapi.co/api/v2/pokemon/10008/"
     },
     {
+    "pokemonName": "Rotom Wash",
     "pokeAPI_id": "rotom-wash",
     "url": "https://pokeapi.co/api/v2/pokemon/10009/"
     },
     {
+    "pokemonName": "Rotom Frost",
     "pokeAPI_id": "rotom-frost",
     "url": "https://pokeapi.co/api/v2/pokemon/10010/"
     },
     {
+    "pokemonName": "Rotom Fan",
     "pokeAPI_id": "rotom-fan",
     "url": "https://pokeapi.co/api/v2/pokemon/10011/"
     },
     {
+    "pokemonName": "Rotom Mow",
     "pokeAPI_id": "rotom-mow",
     "url": "https://pokeapi.co/api/v2/pokemon/10012/"
     },
     {
-    "pokeAPI_id": "castform-sunny",
-    "url": "https://pokeapi.co/api/v2/pokemon/10013/"
-    },
-    {
-    "pokeAPI_id": "castform-rainy",
-    "url": "https://pokeapi.co/api/v2/pokemon/10014/"
-    },
-    {
-    "pokeAPI_id": "castform-snowy",
-    "url": "https://pokeapi.co/api/v2/pokemon/10015/"
-    },
-    {
-    "pokeAPI_id": "basculin-blue-striped",
-    "url": "https://pokeapi.co/api/v2/pokemon/10016/"
-    },
-    {
-    "pokeAPI_id": "darmanitan-zen",
-    "url": "https://pokeapi.co/api/v2/pokemon/10017/"
-    },
-    {
-    "pokeAPI_id": "meloetta-pirouette",
-    "url": "https://pokeapi.co/api/v2/pokemon/10018/"
-    },
-    {
+    "pokemonName": "Tornadus-Therian Form",
     "pokeAPI_id": "tornadus-therian",
     "url": "https://pokeapi.co/api/v2/pokemon/10019/"
     },
     {
+    "pokemonName": "Thundurus-Therian Form",
     "pokeAPI_id": "thundurus-therian",
     "url": "https://pokeapi.co/api/v2/pokemon/10020/"
     },
     {
+    "pokemonName": "Landorus-Therian Form",
     "pokeAPI_id": "landorus-therian",
     "url": "https://pokeapi.co/api/v2/pokemon/10021/"
     },
     {
+    "pokemonName": "Kyurem Black",
     "pokeAPI_id": "kyurem-black",
     "url": "https://pokeapi.co/api/v2/pokemon/10022/"
     },
     {
+    "pokemonName": "Kyurem White",
     "pokeAPI_id": "kyurem-white",
     "url": "https://pokeapi.co/api/v2/pokemon/10023/"
     },
     {
+    "pokemonName": "Keldeo-Resolute Form",
     "pokeAPI_id": "keldeo-resolute",
     "url": "https://pokeapi.co/api/v2/pokemon/10024/"
     },
     {
-    "pokeAPI_id": "meowstic-female",
-    "url": "https://pokeapi.co/api/v2/pokemon/10025/"
-    },
-    {
-    "pokeAPI_id": "aegislash-blade",
-    "url": "https://pokeapi.co/api/v2/pokemon/10026/"
-    },
-    {
-    "pokeAPI_id": "pumpkaboo-small",
-    "url": "https://pokeapi.co/api/v2/pokemon/10027/"
-    },
-    {
-    "pokeAPI_id": "pumpkaboo-large",
-    "url": "https://pokeapi.co/api/v2/pokemon/10028/"
-    },
-    {
-    "pokeAPI_id": "pumpkaboo-super",
-    "url": "https://pokeapi.co/api/v2/pokemon/10029/"
-    },
-    {
-    "pokeAPI_id": "gourgeist-small",
-    "url": "https://pokeapi.co/api/v2/pokemon/10030/"
-    },
-    {
-    "pokeAPI_id": "gourgeist-large",
-    "url": "https://pokeapi.co/api/v2/pokemon/10031/"
-    },
-    {
-    "pokeAPI_id": "gourgeist-super",
-    "url": "https://pokeapi.co/api/v2/pokemon/10032/"
-    },
-    {
-    "pokeAPI_id": "venusaur-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10033/"
-    },
-    {
-    "pokeAPI_id": "charizard-mega-x",
-    "url": "https://pokeapi.co/api/v2/pokemon/10034/"
-    },
-    {
-    "pokeAPI_id": "charizard-mega-y",
-    "url": "https://pokeapi.co/api/v2/pokemon/10035/"
-    },
-    {
-    "pokeAPI_id": "blastoise-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10036/"
-    },
-    {
-    "pokeAPI_id": "alakazam-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10037/"
-    },
-    {
-    "pokeAPI_id": "gengar-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10038/"
-    },
-    {
-    "pokeAPI_id": "kangaskhan-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10039/"
-    },
-    {
-    "pokeAPI_id": "pinsir-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10040/"
-    },
-    {
-    "pokeAPI_id": "gyarados-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10041/"
-    },
-    {
-    "pokeAPI_id": "aerodactyl-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10042/"
-    },
-    {
-    "pokeAPI_id": "mewtwo-mega-x",
-    "url": "https://pokeapi.co/api/v2/pokemon/10043/"
-    },
-    {
-    "pokeAPI_id": "mewtwo-mega-y",
-    "url": "https://pokeapi.co/api/v2/pokemon/10044/"
-    },
-    {
-    "pokeAPI_id": "ampharos-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10045/"
-    },
-    {
-    "pokeAPI_id": "scizor-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10046/"
-    },
-    {
-    "pokeAPI_id": "heracross-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10047/"
-    },
-    {
-    "pokeAPI_id": "houndoom-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10048/"
-    },
-    {
-    "pokeAPI_id": "tyranitar-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10049/"
-    },
-    {
-    "pokeAPI_id": "blaziken-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10050/"
-    },
-    {
-    "pokeAPI_id": "gardevoir-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10051/"
-    },
-    {
-    "pokeAPI_id": "mawile-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10052/"
-    },
-    {
-    "pokeAPI_id": "aggron-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10053/"
-    },
-    {
-    "pokeAPI_id": "medicham-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10054/"
-    },
-    {
-    "pokeAPI_id": "manectric-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10055/"
-    },
-    {
-    "pokeAPI_id": "banette-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10056/"
-    },
-    {
-    "pokeAPI_id": "absol-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10057/"
-    },
-    {
-    "pokeAPI_id": "garchomp-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10058/"
-    },
-    {
-    "pokeAPI_id": "lucario-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10059/"
-    },
-    {
-    "pokeAPI_id": "abomasnow-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10060/"
-    },
-    {
-    "pokeAPI_id": "floette-eternal",
-    "url": "https://pokeapi.co/api/v2/pokemon/10061/"
-    },
-    {
-    "pokeAPI_id": "latias-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10062/"
-    },
-    {
-    "pokeAPI_id": "latios-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10063/"
-    },
-    {
-    "pokeAPI_id": "swampert-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10064/"
-    },
-    {
-    "pokeAPI_id": "sceptile-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10065/"
-    },
-    {
-    "pokeAPI_id": "sableye-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10066/"
-    },
-    {
-    "pokeAPI_id": "altaria-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10067/"
-    },
-    {
-    "pokeAPI_id": "gallade-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10068/"
-    },
-    {
-    "pokeAPI_id": "audino-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10069/"
-    },
-    {
-    "pokeAPI_id": "sharpedo-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10070/"
-    },
-    {
-    "pokeAPI_id": "slowbro-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10071/"
-    },
-    {
-    "pokeAPI_id": "steelix-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10072/"
-    },
-    {
-    "pokeAPI_id": "pidgeot-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10073/"
-    },
-    {
-    "pokeAPI_id": "glalie-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10074/"
-    },
-    {
-    "pokeAPI_id": "diancie-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10075/"
-    },
-    {
-    "pokeAPI_id": "metagross-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10076/"
-    },
-    {
-    "pokeAPI_id": "kyogre-primal",
-    "url": "https://pokeapi.co/api/v2/pokemon/10077/"
-    },
-    {
-    "pokeAPI_id": "groudon-primal",
-    "url": "https://pokeapi.co/api/v2/pokemon/10078/"
-    },
-    {
-    "pokeAPI_id": "rayquaza-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10079/"
-    },
-    {
+    "pokemonName": "Hoopa Unbound",
     "pokeAPI_id": "hoopa-unbound",
     "url": "https://pokeapi.co/api/v2/pokemon/10086/"
     },
     {
-    "pokeAPI_id": "camerupt-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10087/"
-    },
-    {
-    "pokeAPI_id": "lopunny-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10088/"
-    },
-    {
-    "pokeAPI_id": "salamence-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10089/"
-    },
-    {
-    "pokeAPI_id": "beedrill-mega",
-    "url": "https://pokeapi.co/api/v2/pokemon/10090/"
-    },
-    {
+    "pokemonName": "Alolan Rattata",
     "pokeAPI_id": "rattata-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10091/"
     },
     {
+    "pokemonName": "Alolan Raticate",
     "pokeAPI_id": "raticate-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10092/"
     },
     {
+    "pokemonName": "Alolan Raichu",
     "pokeAPI_id": "raichu-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10100/"
     },
     {
+    "pokemonName": "Alolan Sandshrew",
     "pokeAPI_id": "sandshrew-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10101/"
     },
     {
+    "pokemonName": "Alolan Sandslash",
     "pokeAPI_id": "sandslash-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10102/"
     },
     {
+    "pokemonName": "Alolan Vulpix",
     "pokeAPI_id": "vulpix-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10103/"
     },
     {
+    "pokemonName": "Alolan Ninetales",
     "pokeAPI_id": "ninetales-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10104/"
     },
     {
+    "pokemonName": "Alolan Diglett",
     "pokeAPI_id": "diglett-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10105/"
     },
     {
+    "pokemonName": "Alolan Dugtrio",
     "pokeAPI_id": "dugtrio-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10106/"
     },
     {
+    "pokemonName": "Alolan Meowth",
     "pokeAPI_id": "meowth-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10107/"
     },
     {
+    "pokemonName": "Alolan Persian",
     "pokeAPI_id": "persian-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10108/"
     },
     {
+    "pokemonName": "Alolan Geodude",
     "pokeAPI_id": "geodude-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10109/"
     },
     {
+    "pokemonName": "Alolan Graveler",
     "pokeAPI_id": "graveler-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10110/"
     },
     {
+    "pokemonName": "Alolan Golem",
     "pokeAPI_id": "golem-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10111/"
     },
     {
+    "pokemonName": "Alolan Grimer",
     "pokeAPI_id": "grimer-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10112/"
     },
     {
+    "pokemonName": "Alolan Muk",
     "pokeAPI_id": "muk-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10113/"
     },
     {
+    "pokemonName": "Alolan Exeggutor",
     "pokeAPI_id": "exeggutor-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10114/"
     },
     {
+    "pokemonName": "Alolan Marowak",
     "pokeAPI_id": "marowak-alola",
     "url": "https://pokeapi.co/api/v2/pokemon/10115/"
     },
     {
-    "pokeAPI_id": "greninja-battle-bond",
-    "url": "https://pokeapi.co/api/v2/pokemon/10116/"
-    },
-    {
-    "pokeAPI_id": "greninja-ash",
-    "url": "https://pokeapi.co/api/v2/pokemon/10117/"
-    },
-    {
+    "pokemonName": "Zygarde 10%",
     "pokeAPI_id": "zygarde-10",
     "url": "https://pokeapi.co/api/v2/pokemon/10118/"
     },
     {
+    "pokemonName": "Zygarde 50%",
     "pokeAPI_id": "zygarde-50",
     "url": "https://pokeapi.co/api/v2/pokemon/10119/"
     },
     {
+    "pokemonName": "Zygarde Complete",
     "pokeAPI_id": "zygarde-complete",
     "url": "https://pokeapi.co/api/v2/pokemon/10120/"
     },
     {
-    "pokeAPI_id": "oricorio-pom-pom",
-    "url": "https://pokeapi.co/api/v2/pokemon/10123/"
-    },
-    {
-    "pokeAPI_id": "oricorio-pau",
-    "url": "https://pokeapi.co/api/v2/pokemon/10124/"
-    },
-    {
-    "pokeAPI_id": "oricorio-sensu",
-    "url": "https://pokeapi.co/api/v2/pokemon/10125/"
-    },
-    {
+    "pokemonName": "Lycanroc Midnight Form",
     "pokeAPI_id": "lycanroc-midnight",
     "url": "https://pokeapi.co/api/v2/pokemon/10126/"
     },
     {
-    "pokeAPI_id": "wishiwashi-school",
-    "url": "https://pokeapi.co/api/v2/pokemon/10127/"
-    },
-    {
+    "pokemonName": "Necrozma Dusk Mane",
     "pokeAPI_id": "necrozma-dusk",
     "url": "https://pokeapi.co/api/v2/pokemon/10155/"
     },
     {
+    "pokemonName": "Necrozma Dawn Wings",
     "pokeAPI_id": "necrozma-dawn",
     "url": "https://pokeapi.co/api/v2/pokemon/10156/"
     },
     {
+    "pokemonName": "Ultra Necrozma",
     "pokeAPI_id": "necrozma-ultra",
     "url": "https://pokeapi.co/api/v2/pokemon/10157/"
     },
     {
+    "pokemonName": "Galarian Meowth",
     "pokeAPI_id": "meowth-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10158/"
     },
     {
+    "pokemonName": "Galarian Ponyta",
     "pokeAPI_id": "ponyta-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10159/"
     },
     {
+    "pokemonName": "Galarian Rapidash",
     "pokeAPI_id": "rapidash-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10160/"
     },
     {
+    "pokemonName": "Galarian Slowpoke",
     "pokeAPI_id": "slowpoke-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10161/"
     },
     {
+    "pokemonName": "Galarian Slowbro",
     "pokeAPI_id": "slowbro-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10162/"
     },
     {
+    "pokemonName": "Galarian Farfetchd",
     "pokeAPI_id": "farfetchd-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10163/"
     },
     {
+    "pokemonName": "Galarian Weezing",
     "pokeAPI_id": "weezing-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10164/"
     },
     {
+    "pokemonName": "Galarian Mr-Mime",
     "pokeAPI_id": "mr-mime-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10165/"
     },
     {
+    "pokemonName": "Galarian Articuno",
     "pokeAPI_id": "articuno-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10166/"
     },
     {
+    "pokemonName": "Galarian Zapdos",
     "pokeAPI_id": "zapdos-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10167/"
     },
     {
+    "pokemonName": "Galarian Moltres",
     "pokeAPI_id": "moltres-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10168/"
     },
     {
+    "pokemonName": "Galarian Slowking",
     "pokeAPI_id": "slowking-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10169/"
     },
     {
+    "pokemonName": "Galarian Corsola",
     "pokeAPI_id": "corsola-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10170/"
     },
     {
+    "pokemonName": "Galarian Zigzagoon",
     "pokeAPI_id": "zigzagoon-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10171/"
     },
     {
+    "pokemonName": "Galarian Linoone",
     "pokeAPI_id": "linoone-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10172/"
     },
     {
+    "pokemonName": "Galarian Darumaka",
     "pokeAPI_id": "darumaka-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10173/"
     },
     {
+    "pokemonName": "Galarian Darmanitan",
     "pokeAPI_id": "darmanitan-standard-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10174/"
     },
     {
+    "pokemonName": "Galarian Darmanitan Zen",
     "pokeAPI_id": "darmanitan-zen-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10175/"
     },
     {
+    "pokemonName": "Galarian Yamask",
     "pokeAPI_id": "yamask-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10176/"
     },
     {
+    "pokemonName": "Galarian Stunfisk",
     "pokeAPI_id": "stunfisk-galar",
     "url": "https://pokeapi.co/api/v2/pokemon/10177/"
     },
     {
-    "pokeAPI_id": "toxtricity-low-key",
-    "url": "https://pokeapi.co/api/v2/pokemon/10178/"
-    },
-    {
-    "pokeAPI_id": "eiscue-noice",
-    "url": "https://pokeapi.co/api/v2/pokemon/10179/"
-    },
-    {
-    "pokeAPI_id": "indeedee-female",
-    "url": "https://pokeapi.co/api/v2/pokemon/10180/"
-    },
-    {
-    "pokeAPI_id": "zacian-crowned",
-    "url": "https://pokeapi.co/api/v2/pokemon/10181/"
-    },
-    {
-    "pokeAPI_id": "zamazenta-crowned",
-    "url": "https://pokeapi.co/api/v2/pokemon/10182/"
-    },
-    {
-    "pokeAPI_id": "urshifu-rapid-strike",
-    "url": "https://pokeapi.co/api/v2/pokemon/10183/"
-    },
-    {
+    "pokemonName": "Calyrex-Ice Rider",
     "pokeAPI_id": "calyrex-ice-rider",
     "url": "https://pokeapi.co/api/v2/pokemon/10184/"
     },
     {
+    "pokemonName": "Calyrex-Shadow Rider ",
     "pokeAPI_id": "calyrex-shadow-rider",
     "url": "https://pokeapi.co/api/v2/pokemon/10185/"
     }
