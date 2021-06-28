@@ -1,9 +1,13 @@
 import React from 'react';
+import PokeBanner from './PokeBanner/PokeBanner';
+import PokeContainer from './PokeContainer/PokeContainer'
 
+//Main Container for React App
 function App() {
   return (
     <main className="App">
-        {<p>Poke Planner is Running</p>}
+        <PokeBanner />
+        <PokeContainer />
     </main>
   )
 }

@@ -1,0 +1,20 @@
+.pokePlannerBanner {
+    background-color: #1F1F1F;
+    height: 100px;
+    vertical-align: bottom;
+    position: relative;
+    border-bottom: 2px solid #e6e6e6;
+    
+}
+
+.pokePlannerBanner h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+
+    color: #e6e6e6;
+    font-size: 60px;
+
+    position: absolute;
+    bottom: 2%;
+    left: 2%;
+}

@@ -1,0 +1,41 @@
+.pokePlannerMainContainer {
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.pokePlannerMainContainer h1{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.plannerSubContainer {
+    /*display: inline-block;*/
+    height: fit-content;
+    background-color: #1F1F1F;
+    color: #e6e6e6;
+}
+
+.plannerSubContainer.Settings{
+    box-sizing: border-box;
+    border-right: 2px solid #e6e6e6;
+    /* width: 10%; */
+    height: 100%;
+    flex: 1;
+}
+
+.plannerSubContainer.TeamPlanner{
+    box-sizing: border-box;
+    border-right: 2px solid #e6e6e6;
+    /* width: 60%; */
+    height: 100%;
+    flex: 6;
+    
+}
+
+.plannerSubContainer.CoverageSuggestions{
+    /* width: 30%; */
+    height: 100%;
+    flex: 3;
+}
