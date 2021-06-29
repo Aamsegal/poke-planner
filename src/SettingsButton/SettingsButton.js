@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './PokeSettingsButton.css';
+import './SettingsButton.css';
 
 class PokeSettingsButtons extends Component {
     render() {

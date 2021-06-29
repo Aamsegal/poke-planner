@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './PokeCoverageSuggestionContainer.css';
+import './CoverageSuggestionContainer.css';
 
 class PokeCoverageSuggestionContainer extends Component {
     render() {

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './PokeTeamSectionContainer.css';
+import './TeamSectionContainer.css';
 
-class PokeTeamSectionContainer extends Component {
+class TeamSectionContainer extends Component {
     render () {
         return (
             <div className="plannerSubContainer TeamPlanner">
@@ -15,4 +15,4 @@ class PokeTeamSectionContainer extends Component {
     }
 }
 
-export default PokeTeamSectionContainer;
+export default TeamSectionContainer;

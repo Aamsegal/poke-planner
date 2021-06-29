@@ -1,12 +1,12 @@
 import React from 'react';
-import PokeBanner from './PokeBanner/PokeBanner';
-import PokeContainer from './PokeContainer/PokeContainer'
+import MainBanner from './MainBanner/MainBanner';
+import PokeContainer from './MainContainer/MainContainer'
 
 //Main Container for React App
 function App() {
   return (
     <main className="App">
-        <PokeBanner />
+        <MainBanner />
         <PokeContainer />
     </main>
   )

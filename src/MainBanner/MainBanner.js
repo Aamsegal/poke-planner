@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import "./PokeBanner.css";
+import "./MainBanner.css";
 
-class PokeBanner extends Component {
+class MainBanner extends Component {
     //  Banner Component that contains any info for the banner such as the 
     //website name, icon and any other information.
     render() {
@@ -14,4 +14,4 @@ class PokeBanner extends Component {
     }
 }
 
-export default PokeBanner;
+export default MainBanner;
