@@ -1,4 +1,4 @@
-const pokedex = [
+const Pokedex = [
     {
     "pokemonName": "Bulbasaur",
     "pokeAPI_id": "bulbasaur",
@@ -2950,12 +2950,12 @@ const pokedex = [
     "url": "https://pokeapi.co/api/v2/pokemon/590/"
     },
     {
-    "pokeAPI_id": "Amoonguss",
+    "pokemonName": "Amoonguss",
     "pokeAPI_id": "amoonguss",
     "url": "https://pokeapi.co/api/v2/pokemon/591/"
     },
     {
-    "pokeAPI_id": "Frillish",
+    "pokemonName": "Frillish",
     "pokeAPI_id": "frillish",
     "url": "https://pokeapi.co/api/v2/pokemon/592/"
     },
@@ -4785,3 +4785,5 @@ const pokedex = [
     "url": "https://pokeapi.co/api/v2/pokemon/10185/"
     }
 ]
+
+export default Pokedex;

@@ -1,13 +1,9 @@
 .pokePlannerMainContainer {
     display: flex;
-    /* position: absolute; */
-    height: 100%;
-    width: 100%;
+    align-items: stretch;
 }
 
 .plannerSubContainer {
-    /*display: inline-block;*/
-    height: fit-content;
     background-color: #1F1F1F;
     color: #e6e6e6;
 }
@@ -18,8 +14,16 @@ and Coverage/Suggestions*/
     text-align: center;
 }
 
+.subContainerBanner {
+    display: flex;
+}
+
 .subContainerTitle {
     border-bottom: 2px solid #e6e6e6;
     margin: 0;
     padding-top: 5px;
+}
+
+.plannerSubContainer {
+    border-bottom: 1px solid pink;
 }

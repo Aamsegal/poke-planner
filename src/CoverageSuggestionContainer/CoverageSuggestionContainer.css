@@ -1,5 +1,3 @@
 .plannerSubContainer.CoverageSuggestions{
-    /* width: 30%; */
-    height: 100%;
-    flex: 3;
+    flex: 2.5;
 }

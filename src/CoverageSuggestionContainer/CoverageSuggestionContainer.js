@@ -9,7 +9,7 @@ class PokeCoverageSuggestionContainer extends Component {
                 <h1 className="subContainerTitle">Coverage/Suggestion</h1>
                 
                 <div className="subContainerBanner">
-                    
+                    <p>Placeholder</p>
                 </div>
                 
             </div>  

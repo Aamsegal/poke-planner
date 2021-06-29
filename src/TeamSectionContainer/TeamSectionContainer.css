@@ -1,7 +1,11 @@
 .plannerSubContainer.TeamPlanner{
     box-sizing: border-box;
     border-right: 2px solid #e6e6e6;
-    /* width: 60%; */
-    height: 100%;
-    flex: 6;
+    flex: 6.5;
+}
+
+.TeamMemberContainer {
+    display: flex;
+    flex-wrap: wrap; /* Wraps content around if it doesn't fit */
+    justify-content: space-evenly; /* how to align the content, (Left, center, right and so on) */
 }

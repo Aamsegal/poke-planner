@@ -1,0 +1,11 @@
+.TeamMemberSelectorContainer {
+    width: 47.5%;
+    border: 1px solid #e6e6e6;
+    margin-top: 20px;
+    display: flex;
+}
+
+.team-Member-General, .team-Member-Moves, .team-Member-Stats {
+    flex: 1;
+    border: 1px solid #e6e6e6;
+}
