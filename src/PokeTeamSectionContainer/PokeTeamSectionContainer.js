@@ -5,8 +5,9 @@ class PokeTeamSectionContainer extends Component {
     render () {
         return (
             <div className="plannerSubContainer TeamPlanner">
+                <h1 className="subContainerTitle">Team Planner</h1> 
                 <div className="subContainerBanner">
-                    <h1>Team Planner</h1> 
+                    
                 </div>
                  
             </div>

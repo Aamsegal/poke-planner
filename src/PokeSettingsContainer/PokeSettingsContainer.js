@@ -11,8 +11,10 @@ class PokeSettingsContainer extends Component {
     render () {
         return (
             <div className="plannerSubContainer Settings">
+
+                <h1 className="subContainerTitle">Settings</h1>
+                
                 <div className="subContainerBanner">
-                    <h1>Settings</h1>
 
                     {/* Takes props for the text to appear on the button, 
                     the function to perform an action when the button is pressed,

@@ -1,6 +1,6 @@
 .pokePlannerMainContainer {
     display: flex;
-    position: absolute;
+    /* position: absolute; */
     height: 100%;
     width: 100%;
 }
@@ -14,11 +14,11 @@
 
 /*CSS for the banners of all 3 of the main sections (Settings, Team Planner 
 and Coverage/Suggestions*/
-.subContainerBanner {
+.plannerSubContainer {
     text-align: center;
 }
 
-.subContainerBanner h1 {
+.subContainerTitle {
     border-bottom: 2px solid #e6e6e6;
     margin: 0;
     padding-top: 5px;

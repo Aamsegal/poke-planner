@@ -10,3 +10,9 @@
     text-align: center;
     border-bottom: 2px solid #e6e6e6;
 }
+
+.subContainerBanner {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}

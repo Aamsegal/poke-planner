@@ -1,0 +1,8 @@
+.settingButton {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px solid #e6e6e6;
+}
