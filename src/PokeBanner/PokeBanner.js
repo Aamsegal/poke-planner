@@ -7,7 +7,7 @@ class PokeBanner extends Component {
     render() {
         return (
             <div className="pokePlannerBanner">
-                    <h1>PokePlanner</h1>                    
+                <h1>PokePlanner</h1>                    
             </div>
             
         )

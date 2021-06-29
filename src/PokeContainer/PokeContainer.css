@@ -5,11 +5,6 @@
     width: 100%;
 }
 
-.pokePlannerMainContainer h1{
-    margin-bottom: 0;
-    margin-top: 0;
-}
-
 .plannerSubContainer {
     /*display: inline-block;*/
     height: fit-content;
@@ -17,25 +12,14 @@
     color: #e6e6e6;
 }
 
-.plannerSubContainer.Settings{
-    box-sizing: border-box;
-    border-right: 2px solid #e6e6e6;
-    /* width: 10%; */
-    height: 100%;
-    flex: 1;
+/*CSS for the banners of all 3 of the main sections (Settings, Team Planner 
+and Coverage/Suggestions*/
+.subContainerBanner {
+    text-align: center;
 }
 
-.plannerSubContainer.TeamPlanner{
-    box-sizing: border-box;
-    border-right: 2px solid #e6e6e6;
-    /* width: 60%; */
-    height: 100%;
-    flex: 6;
-    
-}
-
-.plannerSubContainer.CoverageSuggestions{
-    /* width: 30%; */
-    height: 100%;
-    flex: 3;
+.subContainerBanner h1 {
+    border-bottom: 2px solid #e6e6e6;
+    margin: 0;
+    padding-top: 5px;
 }

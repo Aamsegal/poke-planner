@@ -1,0 +1,12 @@
+.plannerSubContainer.Settings{
+    box-sizing: border-box;
+    border-right: 2px solid #e6e6e6;
+    /* width: 10%; */
+    height: 100%;
+    flex: 1;
+}
+
+.settingsBanner {
+    text-align: center;
+    border-bottom: 2px solid #e6e6e6;
+}
