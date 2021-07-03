@@ -12,12 +12,12 @@ class TeamSectionContainer extends Component {
 
                 <div className="TeamMemberContainer">
 
-                    <TeamMemberSelector placeholderInfo="Pokemon 1" />
-                    <TeamMemberSelector placeholderInfo="Pokemon 2" />
-                    <TeamMemberSelector placeholderInfo="Pokemon 3" />
-                    <TeamMemberSelector placeholderInfo="Pokemon 4" />
-                    <TeamMemberSelector placeholderInfo="Pokemon 5" />
-                    <TeamMemberSelector placeholderInfo="Pokemon 6" />
+                    <TeamMemberSelector pokemonNumber={1} />
+                    <TeamMemberSelector pokemonNumber={2} />
+                    <TeamMemberSelector pokemonNumber={3} />
+                    <TeamMemberSelector pokemonNumber={4} />
+                    <TeamMemberSelector pokemonNumber={5} />
+                    <TeamMemberSelector pokemonNumber={6} />
 
                 </div>
                  

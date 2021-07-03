@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import PokedexJSONList from '../Pokedex';
+import TeamMemberMoveSelector from '../TeamMemberMoveSelector/TeamMemberMoveSelector';
 
 import './TeamMemberSelector.css';
 
@@ -12,7 +13,8 @@ class TeamMemberSelector extends Component {
 
     state = {
         pokemonInfo: [],
-        pokemonStats: []
+        pokemonStats: [],
+        pokemonMoves: []
     }
 
     /* Makes API call to the PokeAPI if the info requested isnt already cached*/
@@ -26,6 +28,7 @@ class TeamMemberSelector extends Component {
         .then(pokemonApiResponse => {
             this.setState({pokemonInfo: pokemonApiResponse})
             this.generatePokemonStats(pokemonApiResponse.stats)
+            this.generatePokemonMoveList(pokemonApiResponse.moves)
         })
         .catch(function(error) {
           console.log('There was an ERROR: ', error);
@@ -139,6 +142,65 @@ class TeamMemberSelector extends Component {
         return pokemonStatHtml;
     }
 
+    generatePokemonMoveList(movesObject) {
+        let pokemonMoveList = [];
+        let listLength = movesObject.length;
+
+        for(let i = 0; i < listLength; i++) {
+            let currantMove = movesObject[i].move.name;
+            pokemonMoveList.push(currantMove);
+        }
+
+        pokemonMoveList.sort();
+        this.setState({pokemonMoves: pokemonMoveList});
+    }
+
+    generatePokemonMoveHtml() {
+        let moveList = this.state.pokemonMoves;
+        let moveListHtml = [];
+
+        if(moveList.length === 0) {
+            moveListHtml.push(
+                <div>
+                    <h1>Please choose a pokemon</h1>
+                </div>
+            )
+        }else {
+            moveListHtml.push(
+
+                <div className = {`pokemonMoveContainer-${this.props.pokemonNumber}`}>
+
+                    <TeamMemberMoveSelector 
+                        moveList={moveList}
+                        moveNumber={1}
+                        pokemonNumber={this.props.pokemonNumber}
+                    />
+                    
+                    <TeamMemberMoveSelector 
+                        moveList={moveList}
+                        moveNumber={2}
+                        pokemonNumber={this.props.pokemonNumber}
+                    />
+                    
+                    <TeamMemberMoveSelector 
+                        moveList={moveList}
+                        moveNumber={3}
+                        pokemonNumber={this.props.pokemonNumber}
+                    />
+
+                    <TeamMemberMoveSelector 
+                        moveList={moveList}
+                        moveNumber={4}
+                        pokemonNumber={this.props.pokemonNumber}
+                    />
+
+                </div>
+            )
+        }
+
+        return moveListHtml;
+    }
+
     render() {
         return(
             <div className="TeamMemberSelectorContainer">
@@ -167,12 +229,12 @@ class TeamMemberSelector extends Component {
                             /* For padding style it goes top, right, bottom, left */
                             margin: '5px 0 0 0'    
                         }}
-                        renderInput={(params) => <TextField {...params} label="Combo box" variant="outlined" />}
+                        renderInput={(params) => <TextField {...params} label="Pokemon" variant="outlined" />}
                     />
                 </div>
 
                 <div className="team-Member-Moves">
-                    <h2>{this.props.placeholderInfo} Moves</h2>
+                    {this.generatePokemonMoveHtml()}
                 </div>
 
                 <div className="team-Member-Stats">

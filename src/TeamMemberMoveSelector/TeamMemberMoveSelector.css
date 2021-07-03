@@ -1,0 +1,23 @@
+.pokemonMove {
+    text-align: left;
+}
+
+.pokemonMovePower, .pokemonMoveType {
+    display: inline-block;
+}
+
+.pokemonMovePower {
+    width: 50%;
+}
+
+.pokemonMoveType {
+    text-align: center;
+    width: 50%;
+}
+
+.movePowerInfo, .moveTypeInfo {
+    padding-left: 5px;
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
