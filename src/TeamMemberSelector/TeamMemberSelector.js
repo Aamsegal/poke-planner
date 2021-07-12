@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PokePlannerContext from '../PokeAppContext';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import PokedexJSONList from '../Pokedex';
@@ -10,6 +11,7 @@ var Pokedex = require('pokedex-promise-v2');
 var P = new Pokedex();
 
 class TeamMemberSelector extends Component {
+    static contextType = PokePlannerContext;
 
     state = {
         pokemonInfo: [],
@@ -26,7 +28,6 @@ class TeamMemberSelector extends Component {
         }else {
             this.grabPokemonApiInfo(formInput.pokeAPI_id);
         }
-        
     };
 
     /* Makes API call to the PokeAPI if the info requested isnt already cached*/
@@ -39,6 +40,7 @@ class TeamMemberSelector extends Component {
         /* Used the returned response to save info to the state for usage */
         .then(pokemonApiResponse => {
             this.setState({pokemonInfo: pokemonApiResponse})
+            this.updatePokemonContext(pokemonApiResponse);
             this.generatePokemonStats(pokemonApiResponse.stats)
             this.generatePokemonMoveList(pokemonApiResponse.moves)
         })
@@ -59,6 +61,42 @@ class TeamMemberSelector extends Component {
         }
 
         this.setState({pokemonStats: pokemonStatArray});
+    }
+
+    generatePokemonMoveList(movesObject) {
+        let pokemonMoveList = [];
+        let listLength = movesObject.length;
+
+        for(let i = 0; i < listLength; i++) {
+            let currantMove = movesObject[i].move.name;
+            pokemonMoveList.push(currantMove);
+        }
+
+        pokemonMoveList.sort();
+        this.setState({pokemonMoves: pokemonMoveList});
+    }
+
+    updatePokemonContext(pokemonInfo) {
+        /* console.log(pokemonInfo); */
+        const { changeTeamPokemonContext } = this.context;
+        let pokemonName = pokemonInfo.name;
+        let typeList = pokemonInfo.types;
+        let type1 = typeList[0].type.name;
+        let type2 = '';
+        let stats = []
+
+        if(typeList.length === 2) {
+            type2 = typeList[1].type.name;
+        }
+
+        for(let i = 0; i < pokemonInfo.stats.length; i ++) {
+            let currantStat = pokemonInfo.stats[i].base_stat
+            stats.push(currantStat);
+
+        }
+
+        changeTeamPokemonContext(this.props.pokemonNumber, pokemonName, type1, type2, stats);
+        
     }
 
     generateStatHTML() {
@@ -152,19 +190,6 @@ class TeamMemberSelector extends Component {
         }
 
         return pokemonStatHtml;
-    }
-
-    generatePokemonMoveList(movesObject) {
-        let pokemonMoveList = [];
-        let listLength = movesObject.length;
-
-        for(let i = 0; i < listLength; i++) {
-            let currantMove = movesObject[i].move.name;
-            pokemonMoveList.push(currantMove);
-        }
-
-        pokemonMoveList.sort();
-        this.setState({pokemonMoves: pokemonMoveList});
     }
 
     generatePokemonMoveHtml() {

@@ -68,8 +68,6 @@ class TeamMemberMoveSelector extends Component {
     addMoveTypeAndPower(selectedMove) {
         const { changeTeamMoveContext } = this.context;
 
-        console.log(selectedMove)
-
         let movePowerValue = selectedMove.power;
         let moveTypeValue = selectedMove.type.name;
         let moveColorValue = PokemonTypeInfo[moveTypeValue];

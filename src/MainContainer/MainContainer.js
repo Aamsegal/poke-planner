@@ -78,19 +78,11 @@ class PokeContainer extends Component {
         console.log(`${changeType}ing one to the team type of ${type}`)
     }
 
+    /* uses the pokemon name and move number from props to change and save the new move in the state */
     changeTeamMoveContext = (pokemonNumber, moveNumber, moveName, moveType, moveDamage, damageClass) => {
-        console.log(pokemonNumber)
-        console.log(moveNumber)
-        console.log(moveName)
-        console.log(moveType)
-        console.log(moveDamage)
-        console.log(damageClass)
-
         let tempContext = {...this.state};
         let changedPokemon = tempContext[`member${pokemonNumber}`];
         let changedMove = changedPokemon[`attack${moveNumber}`];
-
-        console.log(changedMove);
 
         changedMove.name = moveName;
         changedMove.type = moveType;
@@ -102,8 +94,12 @@ class PokeContainer extends Component {
         this.setState({[`member${pokemonNumber}`]: changedPokemon});
     }
 
-    textContextFunctionAccessibility = () => {
-        console.log('Has access to context functions')
+    changeTeamPokemonContext(pokemonNumber, pokemonName, type1, type2, stats) {
+        console.log(pokemonNumber)
+        console.log(pokemonName)
+        console.log(type1)
+        console.log(type2)
+        console.log(stats)
     }
     
     //  Container for main application. Holds the settings tab, team builder, and
@@ -113,9 +109,8 @@ class PokeContainer extends Component {
             <div className="pokePlannerMainContainer">
 
                 <PokePlannerProvider value={{...this.state, 
-                    changeTeamTypeContext: this.changeTeamTypeContext,
                     changeTeamMoveContext: this.changeTeamMoveContext,
-                    textContextFunctionAccessibility: this.textContextFunctionAccessibility
+                    changeTeamPokemonContext: this.changeTeamPokemonContext
                 }}>
 
                     <SettingsContainer />
