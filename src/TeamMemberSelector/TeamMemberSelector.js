@@ -17,6 +17,18 @@ class TeamMemberSelector extends Component {
         pokemonMoves: []
     }
 
+    checkFormChange = (formInput) => {
+        /* If the form is cleared by the x, the input will be null */
+        if(formInput === null ) {
+            this.setState({pokemonInfo: []});
+            this.setState({pokemonStats: []});
+            this.setState({pokemonMoves: []});
+        }else {
+            this.grabPokemonApiInfo(formInput.pokeAPI_id);
+        }
+        
+    };
+
     /* Makes API call to the PokeAPI if the info requested isnt already cached*/
     grabPokemonApiInfo = (pokemonId) => {
 
@@ -203,7 +215,7 @@ class TeamMemberSelector extends Component {
 
     render() {
         return(
-            <div className="TeamMemberSelectorContainer">
+            <div className="TeamMemberSelectorContainer" key={`teamMemberSelector-${this.props.pokemonNumber}`}>
 
                 <div className="team-Member-General">
                     <Autocomplete
@@ -215,7 +227,7 @@ class TeamMemberSelector extends Component {
                         the response to only return the object as opposed to all the extra information
                         that the code uses to identify the request.*/
                         onChange={(event, newValue) => {
-                            this.grabPokemonApiInfo(newValue.pokeAPI_id);
+                            this.checkFormChange(newValue);
                         }}
                         /*  Whenever the text field is edited, perform the function,
                         in this case log the text*/

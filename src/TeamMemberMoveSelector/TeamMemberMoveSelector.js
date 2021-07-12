@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PokePlannerContext from '../PokeAppContext';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 
@@ -10,6 +11,7 @@ var Pokedex = require('pokedex-promise-v2');
 var P = new Pokedex();
 
 class TeamMemberMoveSelector extends Component {
+    static contextType = PokePlannerContext;
 
     state = {
         moveInfo: [],
@@ -18,16 +20,43 @@ class TeamMemberMoveSelector extends Component {
         moveColor: ''
     }
 
+    /* Check the value of the text box field when changed. If its null, that
+    means the move was cleared so it resets the state. If its not, proceed
+    with the pokemon api call. */
+    checkTextBoxChange(input) {
+        if(input === null) {
+            const { changeTeamMoveContext } = this.context;
+
+            /* Resets the state */
+            this.setState({moveInfo: []});
+            this.setState({movePower: ''});
+            this.setState({moveType: ''});
+            this.setState({moveColor: ''});
+
+            changeTeamMoveContext(
+                this.props.pokemonNumber, 
+                this.props.moveNumber,
+                '',
+                '',
+                0,
+                '');
+        }else {
+            this.selectedMoveApiCall(input);
+        }
+    }
+
+    /* Pokemon move api call */
     selectedMoveApiCall(selectedMove) {
         P.getMoveByName(selectedMove) // with Promise
         .then(function(response) {
             return response;
         })
-        /* Used the returned response to save info to the state for usage */
+        /* Used the returned response to save info to the state for usage,
+        otherwise the .then above cannot access the "this" value for
+        this.setState and similar things. */
         .then(pokemonMoveApiResponse => {
             this.setState({moveInfo: pokemonMoveApiResponse});
-            this.addMovePower(pokemonMoveApiResponse);
-            this.addMoveType(pokemonMoveApiResponse);
+            this.addMoveTypeAndPower(pokemonMoveApiResponse);
         })
         .catch(function(error) {
           console.log('There was an ERROR: ', error);
@@ -36,19 +65,35 @@ class TeamMemberMoveSelector extends Component {
 
     /* Updates the state for the move power. This is needed so that the page
     re-renders since setState is called. */
-    addMovePower(selectedMove) {
-        let movePowerValue = selectedMove.power;
+    addMoveTypeAndPower(selectedMove) {
+        const { changeTeamMoveContext } = this.context;
 
-        console.log(movePowerValue);
+        console.log(selectedMove)
+
+        let movePowerValue = selectedMove.power;
+        let moveTypeValue = selectedMove.type.name;
+        let moveColorValue = PokemonTypeInfo[moveTypeValue];
+        let moveNameValue = selectedMove.name
+        let damageClass = selectedMove.damage_class.name;
 
         if(movePowerValue === null) {
             movePowerValue = 0;
         }
 
-        this.setState({movePower: movePowerValue})
+        /* saves move power, type and color to state */
+        this.setState({movePower: movePowerValue});
+        this.setState({moveType: moveTypeValue});
+        this.setState({moveColor: moveColorValue});
+
+        changeTeamMoveContext(
+            this.props.pokemonNumber, 
+            this.props.moveNumber,
+            moveNameValue,
+            moveTypeValue,
+            movePowerValue,
+            damageClass)
     }
     
-
     addMovePowerHtml() {
         let movePowerHtml = [];
         let movePower = this.state.movePower;
@@ -60,17 +105,6 @@ class TeamMemberMoveSelector extends Component {
         }
 
         return movePowerHtml;
-    }
-
-    /* Updates the state for the move power. This is needed so that the page
-    re-renders since setState is called. */
-    addMoveType = (selectedMove) => {
-        let moveTypeValue = selectedMove.type.name;
-        console.log(moveTypeValue)
-        let moveColorValue = PokemonTypeInfo[moveTypeValue];
-
-        this.setState({moveType: moveTypeValue});
-        this.setState({moveColor: moveColorValue})
     }
 
     addMoveTypeHtml() {
@@ -90,6 +124,8 @@ class TeamMemberMoveSelector extends Component {
     }
 
     render() {
+        /* this allows us to access the functions from the context */
+        
         return (
             <div className='pokemonMove'>
 
@@ -102,7 +138,7 @@ class TeamMemberMoveSelector extends Component {
                     the response to only return the object as opposed to all the extra information
                     that the code uses to identify the request.*/
                     onChange={(event, newValue) => {
-                        this.selectedMoveApiCall(newValue)
+                        this.checkTextBoxChange(newValue);
                         /* this.grabPokemonApiInfo(newValue.pokeAPI_id); */
                     }}
                     /*  Whenever the text field is edited, perform the function,
@@ -115,7 +151,7 @@ class TeamMemberMoveSelector extends Component {
                         background: 'white', 
                         padding: '5px 0 0 0',
                         /* For padding style it goes top, right, bottom, left */
-                        margin: '5px 0 0 0'    
+                        margin: '5px 0 0 0'  
                     }}
                     renderInput={(params) => <TextField {...params} label={`Move ${this.props.moveNumber}`} variant="outlined" />}
                 />

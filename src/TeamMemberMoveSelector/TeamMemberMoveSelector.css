@@ -1,5 +1,6 @@
 .pokemonMove {
     text-align: left;
+    height: 100px;
 }
 
 .pokemonMovePower, .pokemonMoveType {

@@ -12,12 +12,12 @@ class TeamSectionContainer extends Component {
 
                 <div className="TeamMemberContainer">
 
-                    <TeamMemberSelector pokemonNumber={1} />
-                    <TeamMemberSelector pokemonNumber={2} />
-                    <TeamMemberSelector pokemonNumber={3} />
-                    <TeamMemberSelector pokemonNumber={4} />
-                    <TeamMemberSelector pokemonNumber={5} />
-                    <TeamMemberSelector pokemonNumber={6} />
+                    <TeamMemberSelector pokemonNumber={1} key={'teamMemberSelector-1'}/>
+                    <TeamMemberSelector pokemonNumber={2} key={'teamMemberSelector-2'}/>
+                    <TeamMemberSelector pokemonNumber={3} key={'teamMemberSelector-3'}/>
+                    <TeamMemberSelector pokemonNumber={4} key={'teamMemberSelector-4'}/>
+                    <TeamMemberSelector pokemonNumber={5} key={'teamMemberSelector-5'}/>
+                    <TeamMemberSelector pokemonNumber={6} key={'teamMemberSelector-6'}/>
 
                 </div>
                  
